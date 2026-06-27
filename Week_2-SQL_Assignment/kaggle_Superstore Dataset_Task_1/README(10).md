@@ -115,8 +115,9 @@ The dataset includes:
 
 ## 👨‍💻 Author
 
-Name-Ayush Gourav
+**Ayush Gourav**
 
-B.Tech CSE (2023--2027)
-
-Celebal Technologies Summer Internship 2026
+-   B.Tech CSE (2023--2027)
+-   ITER, Siksha 'O' Anusandhan University
+-   Data Engineering Intern
+-   Celebal Technologies Summer Internship 2026
