@@ -98,7 +98,7 @@ The pipeline completed successfully and generated the output CSV in the destinat
 
 ### Screenshots
 
-![Pipeline Success](task-5/Task5_PipelineExecution_Succeeded_1.png)
+![Pipeline Success](task-5/Task5_PipelineExecution_Succeeded_DebugOutput.png)
 
 ![Pipeline Success Details](task-5/Task5_PipelineExecution_Succeeded_2.png)
 
