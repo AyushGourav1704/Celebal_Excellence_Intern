@@ -86,7 +86,7 @@ The pipeline validates the source file and copies it from the **input** containe
 
 ### Screenshot
 
-![Pipeline Design](task-4/Task4_PipelineDesign_CopyDataMap.png)
+![Pipeline Design](task-4/Task4_PipelineDesign_CopyDataMapping.png)
 
 ---
 
