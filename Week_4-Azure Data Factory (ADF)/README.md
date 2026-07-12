@@ -102,7 +102,7 @@ The pipeline completed successfully and generated the output CSV in the destinat
 
 ![Pipeline Success Details](task-5/Task5_PipelineExecution_Succeeded_MonitorView.png)
 
-![Output File](task-6/output_path.png)
+![Output File](task-5/output_path.png)
 
 ---
 
