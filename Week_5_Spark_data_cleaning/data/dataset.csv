@@ -1,0 +1,621 @@
+user_id,transaction_date,region,product_category,sale_amount,city,age,subscription,status,raw_timestamp,email,username,price,store_id
+U1363,2024-06-16,West,Furniture,365.23,Bangalore,25,Premium,Pending,16/06/2024,u1363@mail.com,user_363,2914.57,ST10
+U1133,2024-01-19,South,Toys,2306.74,Bangalore,41,Premium,Inactive,2024-01-19 00:00:00,u1133@mail.com,user_133,2819.9,ST3
+U1470,2024-02-11,West,Grocery,1869.7,Chennai,45,Basic,Active,2024-02-11T00:00:00,u1470@mail.com,user_470,,ST4
+U1054,2024-04-16,East,Toys,1963.85,Pune,24,Basic,Pending,2024-04-16 00:00:00,u1054@mail.com,user_54,662.97,ST4
+U1267,2024-06-20,South,Clothing,4752.29,Kolkata,17,Premium,Pending,20/06/2024,u1267@mail.com,user_267,197.74,ST3
+U1132,2024-03-14,West,Electronics,2211.55,Pune,38,Basic,,2024-03-14T00:00:00,,,1119.45,ST5
+U1452,2024-02-14,West,Toys,3575.75,Mumbai,25,Premium,Active,2024-02-14,u1452@mail.com,user_452,2123.39,ST4
+U1531,2024-01-27,South,Furniture,4258.22,Chennai,34,Basic,Active,2024-01-27,u1531@mail.com,user_531,2809.08,ST8
+U1412,2024-06-20,East,Clothing,156.85,Chennai,19,Basic,,20/06/2024,,user_412,1395.28,ST10
+U1124,2024-05-27,West,Clothing,4864.66,Chennai,29,Basic,Pending,27/05/2024,u1124@mail.com,user_124,586.79,ST3
+U1360,2024-02-26,East,Grocery,206.34,Kolkata,37,Basic,Inactive,2024-02-26 00:00:00,,user_360,1132.89,ST10
+U1098,2024-02-15,South,Furniture,3796.78,Chennai,29,Basic,Pending,15/02/2024,u1098@mail.com,user_98,2399.17,ST10
+U1492,2024-02-24,North,Grocery,332.9,Ahmedabad,27,Premium,Active,2024-02-24 00:00:00,u1492@mail.com,user_492,1616.64,ST7
+U1543,2024-03-29,West,Grocery,4511.02,Bangalore,19,Basic,,29/03/2024,u1543@mail.com,user_543,1354.32,ST6
+U1284,2024-02-27,South,Clothing,2603.52,Kolkata,37,Basic,Active,2024-02-27,u1284@mail.com,user_284,972.33,ST9
+U1431,2024-01-21,South,Grocery,3274.18,Mumbai,16,Basic,Inactive,2024-01-21T00:00:00,u1431@mail.com,user_431,1109.82,ST2
+U1176,2024-04-08,West,Grocery,2127.67,Kolkata,38,Premium,Inactive,2024-04-08,u1176@mail.com,user_176,480.51,ST3
+U1542,2024-06-18,East,Toys,383.27,Bangalore,37,Basic,,2024-06-18,u1542@mail.com,user_542,2178.58,ST6
+U1403,2024-04-29,East,Electronics,4082.97,Hyderabad,29,Premium,,2024-04-29T00:00:00,u1403@mail.com,user_403,733.5,ST4
+U1307,2024-04-22,East,Clothing,477.73,Chennai,21,Premium,Inactive,22/04/2024,u1307@mail.com,user_307,729.52,ST6
+U1340,2024-02-04,North,Grocery,2399.07,Mumbai,44,Basic,,2024-02-04T00:00:00,,user_340,732.09,ST1
+U1108,2024-04-25,North,Electronics,2132.99,Delhi,26,Premium,,2024-04-25 00:00:00,u1108@mail.com,,2525.57,ST6
+U1038,2024-06-29,East,Electronics,2132.85,Delhi,29,Basic,Active,29/06/2024,u1038@mail.com,user_38,2840.88,ST1
+U1143,2024-05-02,East,Grocery,1673.72,Chennai,44,Premium,Inactive,2024-05-02 00:00:00,u1143@mail.com,user_143,568.58,ST1
+U1356,2024-03-18,West,Clothing,4806.88,Mumbai,38,Premium,,18/03/2024,u1356@mail.com,user_356,2845.13,ST9
+U1081,2024-01-26,North,Toys,4518.31,Chennai,16,Basic,Pending,26/01/2024,u1081@mail.com,user_81,320.44,ST4
+U1277,2024-05-20,North,Electronics,324.31,Mumbai,19,Basic,Active,2024-05-20T00:00:00,u1277@mail.com,user_277,1209.04,ST8
+U1110,2024-02-08,South,Electronics,3903.25,Mumbai,18,Premium,Inactive,2024-02-08,u1110@mail.com,user_110,,ST8
+U1571,2024-04-20,South,Grocery,696.42,Bangalore,30,Basic,Active,20/04/2024,,user_571,982.91,ST7
+U1339,2024-04-21,North,Grocery,2460.09,Mumbai,17,Basic,Pending,2024-04-21T00:00:00,u1339@mail.com,user_339,,ST9
+U1011,2024-03-02,West,Clothing,4402.25,Hyderabad,17,Basic,Active,02/03/2024,u1011@mail.com,user_11,831.92,ST10
+U1186,2024-02-17,South,Furniture,243.04,Bangalore,21,Basic,,2024-02-17,,user_186,2126.09,ST2
+U1032,2024-06-06,North,Furniture,2784.89,Mumbai,24,Premium,,2024-06-06T00:00:00,u1032@mail.com,user_32,1445.9,ST3
+U1112,2024-01-18,West,Furniture,4379.32,Mumbai,27,Basic,Pending,2024-01-18 00:00:00,u1112@mail.com,,1988.46,ST2
+U1537,2024-03-31,West,Toys,1410.71,Mumbai,37,Premium,Active,2024-03-31,u1537@mail.com,user_537,2925.25,ST10
+U1046,2024-04-21,East,Toys,4830.82,Delhi,40,Basic,,2024-04-21,u1046@mail.com,user_46,774.21,ST2
+U1059,2024-06-21,North,Toys,297.14,Chennai,30,Basic,Pending,21/06/2024,u1059@mail.com,user_59,2908.71,ST8
+U1171,2024-02-15,North,Electronics,4811.2,Bangalore,39,Basic,Active,2024-02-15T00:00:00,u1171@mail.com,user_171,1198.01,ST9
+U1488,2024-03-23,West,Electronics,2993.27,Mumbai,26,Basic,Active,2024-03-23T00:00:00,u1488@mail.com,user_488,1265.19,ST1
+U1288,2024-05-14,East,Clothing,2650.97,Kolkata,20,Basic,,2024-05-14 00:00:00,u1288@mail.com,user_288,1026.65,ST5
+U1378,2024-05-05,South,Clothing,902.55,Mumbai,28,Premium,Pending,2024-05-05,u1378@mail.com,user_378,653.46,ST3
+U1049,2024-04-24,West,Electronics,1541.75,Delhi,22,Basic,Pending,2024-04-24,u1049@mail.com,user_49,1673.65,ST6
+U1507,2024-01-22,South,Grocery,991.26,Pune,45,Premium,Active,2024-01-22 00:00:00,u1507@mail.com,user_507,2725.19,ST8
+U1343,2024-06-28,South,Clothing,1671.15,Mumbai,32,Premium,Inactive,2024-06-28 00:00:00,u1343@mail.com,user_343,74.2,ST2
+U1355,2024-06-16,South,Electronics,2393.49,Chennai,26,Basic,Pending,2024-06-16 00:00:00,u1355@mail.com,user_355,,ST2
+U1574,2024-05-13,East,Electronics,3901.17,Bangalore,39,Premium,,2024-05-13 00:00:00,,,,ST6
+U1361,2024-03-04,East,Grocery,4074.26,Mumbai,27,Premium,Active,2024-03-04T00:00:00,u1361@mail.com,user_361,2084.31,ST10
+U1103,2024-02-03,West,Grocery,2838.72,Chennai,25,Premium,Active,2024-02-03,u1103@mail.com,,2855.95,ST6
+U1518,2024-01-20,East,Furniture,3416.85,Pune,15,Basic,Active,2024-01-20,u1518@mail.com,user_518,1004.44,ST1
+U1499,2024-03-01,West,Toys,3698.95,Hyderabad,31,Basic,,2024-03-01 00:00:00,u1499@mail.com,user_499,1021.39,ST10
+U1225,2024-02-21,East,Toys,3994.75,Ahmedabad,40,Basic,,2024-02-21,u1225@mail.com,user_225,847.79,ST1
+U1265,2024-06-28,East,Furniture,4170.2,Mumbai,38,Premium,Pending,2024-06-28 00:00:00,u1265@mail.com,user_265,2344.98,ST9
+U1240,2024-06-27,West,Electronics,3373.89,Kolkata,28,Premium,Active,2024-06-27,u1240@mail.com,user_240,2607.34,ST8
+U1440,2024-01-25,North,Toys,2586.95,Delhi,35,Premium,Pending,2024-01-25 00:00:00,u1440@mail.com,user_440,2907.29,ST8
+U1318,2024-04-21,West,Electronics,1389.15,Delhi,34,Premium,,2024-04-21,u1318@mail.com,user_318,1812.54,ST3
+U1358,2024-05-16,South,Grocery,4522.18,Bangalore,25,Basic,,2024-05-16,u1358@mail.com,user_358,1659.6,ST7
+U1125,2024-04-20,West,Electronics,2638.7,Delhi,20,Basic,Inactive,2024-04-20T00:00:00,u1125@mail.com,user_125,282.64,ST4
+U1131,2024-05-07,West,Electronics,4731.64,Bangalore,45,Premium,Inactive,2024-05-07T00:00:00,,user_131,2536.41,ST8
+U1324,2024-05-17,West,Grocery,1316.46,Mumbai,36,Basic,Active,17/05/2024,u1324@mail.com,user_324,843.77,ST4
+U1572,2024-02-19,North,Electronics,4412.48,Kolkata,38,Premium,,2024-02-19 00:00:00,u1572@mail.com,user_572,235.39,ST2
+U1273,2024-06-05,West,Electronics,3252.65,Mumbai,42,Basic,,05/06/2024,,user_273,2911.93,ST1
+U1470,2024-02-11,West,Grocery,1869.7,Chennai,45,Basic,Active,2024-02-11T00:00:00,u1470@mail.com,user_470,,ST4
+U1117,2024-01-21,North,Grocery,1601.83,Bangalore,28,Premium,,2024-01-21T00:00:00,u1117@mail.com,user_117,1863.81,ST7
+U1113,2024-05-28,North,Clothing,317.24,Bangalore,41,Premium,,2024-05-28,u1113@mail.com,user_113,,ST8
+U1252,2024-06-22,South,Toys,601.33,Bangalore,36,Basic,Pending,2024-06-22T00:00:00,u1252@mail.com,user_252,865.63,ST6
+U1362,2024-01-25,North,Electronics,3680.87,Bangalore,17,Premium,Pending,2024-01-25T00:00:00,u1362@mail.com,user_362,405.59,ST4
+U1346,2024-03-04,West,Clothing,2358.09,Kolkata,31,Premium,,2024-03-04,u1346@mail.com,user_346,1906.03,ST1
+U1015,2024-04-15,South,Electronics,3399.49,Ahmedabad,18,Premium,,2024-04-15T00:00:00,u1015@mail.com,user_15,1632.04,ST3
+U1001,2024-06-12,West,Electronics,3733.6,Mumbai,19,Premium,Active,2024-06-12,,user_1,1825.96,ST9
+U1479,2024-04-18,East,Toys,1215.02,Mumbai,25,Premium,,2024-04-18 00:00:00,u1479@mail.com,user_479,900.4,ST1
+U1062,2024-01-14,East,Grocery,2791.18,Hyderabad,29,Basic,Active,2024-01-14 00:00:00,u1062@mail.com,user_62,517.22,ST9
+U1271,2024-05-03,South,Electronics,4449.21,Delhi,17,Basic,Pending,2024-05-03 00:00:00,u1271@mail.com,user_271,1751.11,ST10
+U1082,2024-06-13,West,Electronics,3955.29,Mumbai,19,Premium,Active,13/06/2024,u1082@mail.com,user_82,2334.39,ST10
+U1195,2024-06-22,West,Clothing,4817.58,Kolkata,44,Premium,Pending,22/06/2024,u1195@mail.com,user_195,1000.19,ST4
+U1411,2024-04-07,South,Furniture,2232.43,Mumbai,20,Basic,Inactive,07/04/2024,u1411@mail.com,user_411,1280.84,ST5
+U1122,2024-05-20,North,Grocery,4271.67,Chennai,44,Premium,Pending,20/05/2024,u1122@mail.com,user_122,2381.6,ST1
+U1379,2024-04-22,South,Grocery,4347.2,Pune,28,Basic,Active,2024-04-22,u1379@mail.com,user_379,1737.21,ST9
+U1074,2024-06-04,South,Grocery,3901.13,Mumbai,40,Basic,Inactive,04/06/2024,u1074@mail.com,user_74,1994.59,ST3
+U1589,2024-04-06,East,Grocery,1347.19,Mumbai,39,Premium,Pending,2024-04-06,u1589@mail.com,user_589,,ST9
+U1158,2024-05-22,South,Electronics,4864.22,Hyderabad,36,Basic,Pending,2024-05-22,u1158@mail.com,user_158,1636.89,ST4
+U1068,2024-01-20,South,Grocery,1758.95,Chennai,35,Premium,Pending,2024-01-20,u1068@mail.com,user_68,1489.45,ST9
+U1170,2024-05-15,West,Clothing,1135.94,Pune,43,Basic,Pending,2024-05-15 00:00:00,u1170@mail.com,user_170,1651.94,ST1
+U1067,2024-05-06,West,Clothing,2561.23,Bangalore,42,Premium,,2024-05-06 00:00:00,u1067@mail.com,user_67,1259.44,ST3
+U1102,2024-01-14,North,Electronics,1715.48,Bangalore,27,Basic,Pending,14/01/2024,u1102@mail.com,user_102,1081.97,ST7
+U1255,2024-05-09,North,Clothing,4219.13,Pune,20,Basic,Active,2024-05-09,u1255@mail.com,user_255,2300.61,ST3
+U1335,2024-06-16,North,Grocery,3066.39,Delhi,43,Basic,Pending,2024-06-16,u1335@mail.com,user_335,,ST4
+U1215,2024-06-08,East,Furniture,1904.54,Ahmedabad,39,Premium,Inactive,08/06/2024,,user_215,1071.95,ST1
+U1524,2024-01-22,North,Furniture,2243.04,Pune,30,Basic,Inactive,22/01/2024,u1524@mail.com,user_524,1311.81,ST10
+U1269,2024-06-08,North,Electronics,1925.85,Delhi,18,Basic,,2024-06-08,u1269@mail.com,user_269,2409.7,ST3
+U1207,2024-04-30,West,Electronics,2978.08,Mumbai,21,Premium,Active,2024-04-30,u1207@mail.com,user_207,1275.52,ST7
+U1212,2024-03-06,West,Toys,3403.19,Mumbai,38,Premium,Active,2024-03-06 00:00:00,u1212@mail.com,user_212,492.75,ST1
+U1104,2024-05-04,East,Clothing,4999.89,Mumbai,24,Premium,Active,2024-05-04T00:00:00,u1104@mail.com,user_104,505.05,ST3
+U1330,2024-06-24,East,Electronics,3632.0,Kolkata,32,Basic,,24/06/2024,u1330@mail.com,user_330,2426.72,ST3
+U1410,2024-01-16,North,Toys,4842.71,Mumbai,32,Basic,Active,2024-01-16T00:00:00,u1410@mail.com,user_410,1213.09,ST6
+U1160,2024-04-04,West,Toys,3650.47,Mumbai,23,Basic,Active,2024-04-04 00:00:00,u1160@mail.com,user_160,1698.61,ST8
+U1092,2024-05-25,West,Electronics,862.34,Chennai,16,Premium,Pending,2024-05-25,u1092@mail.com,user_92,855.84,ST9
+U1292,2024-06-20,East,Furniture,4194.76,Mumbai,41,Basic,Active,20/06/2024,,user_292,,ST2
+U1145,2024-06-13,South,Clothing,4270.19,Bangalore,21,Premium,Pending,13/06/2024,u1145@mail.com,user_145,91.55,ST6
+U1028,2024-02-21,South,Grocery,1595.44,Kolkata,22,Premium,Active,21/02/2024,u1028@mail.com,user_28,,ST5
+U1332,2024-06-25,East,Electronics,1155.79,Delhi,41,Premium,,2024-06-25T00:00:00,u1332@mail.com,user_332,2439.55,ST6
+U1107,2024-04-05,West,Toys,4270.71,Delhi,39,Premium,Pending,2024-04-05,u1107@mail.com,user_107,2841.92,ST4
+U1374,2024-05-13,East,Furniture,1277.77,Mumbai,24,Basic,,13/05/2024,u1374@mail.com,user_374,2410.31,ST3
+U1216,2024-03-26,West,Furniture,4260.13,Chennai,18,Premium,Inactive,2024-03-26,u1216@mail.com,,2149.37,ST2
+U1211,2024-03-26,South,Grocery,2666.89,Delhi,33,Premium,,2024-03-26,u1211@mail.com,,542.3,ST3
+U1106,2024-02-19,North,Toys,4923.75,Delhi,24,Basic,,19/02/2024,u1106@mail.com,user_106,787.51,ST8
+U1465,2024-04-16,East,Toys,3029.88,Mumbai,24,Basic,Pending,2024-04-16 00:00:00,u1465@mail.com,user_465,69.53,ST5
+U1599,2024-04-04,West,Clothing,1701.18,Pune,27,Premium,Active,04/04/2024,u1599@mail.com,user_599,,ST4
+U1535,2024-02-14,East,Clothing,3068.17,Mumbai,28,Basic,Pending,14/02/2024,u1535@mail.com,,,ST5
+U1461,2024-05-01,North,Toys,3367.75,Kolkata,38,Basic,Pending,2024-05-01 00:00:00,u1461@mail.com,user_461,1675.33,ST5
+U1044,2024-04-11,East,Electronics,3001.28,Kolkata,22,Premium,Pending,2024-04-11 00:00:00,u1044@mail.com,user_44,,ST9
+U1456,2024-04-23,West,Grocery,1026.4,Mumbai,40,Premium,Pending,2024-04-23,u1456@mail.com,user_456,1484.14,ST9
+U1244,2024-01-28,West,Grocery,4350.63,Pune,43,Basic,Pending,2024-01-28,u1244@mail.com,user_244,557.99,ST7
+U1559,2024-05-30,East,Furniture,2592.24,Bangalore,45,Premium,Pending,2024-05-30 00:00:00,u1559@mail.com,user_559,,ST1
+U1266,2024-02-21,North,Furniture,1547.22,Mumbai,30,Premium,,2024-02-21T00:00:00,u1266@mail.com,,375.77,ST10
+U1138,2024-04-30,West,Clothing,2641.55,Bangalore,36,Basic,,2024-04-30T00:00:00,u1138@mail.com,user_138,1661.51,ST5
+U1178,2024-03-26,South,Grocery,2257.09,Delhi,41,Premium,Pending,2024-03-26T00:00:00,u1178@mail.com,user_178,574.03,ST7
+U1029,2024-03-30,South,Toys,1722.63,Mumbai,43,Basic,Inactive,2024-03-30T00:00:00,,user_29,2369.96,ST7
+U1297,2024-02-06,East,Clothing,1181.86,Kolkata,21,Premium,Inactive,2024-02-06 00:00:00,u1297@mail.com,user_297,1410.73,ST9
+U1181,2024-04-18,South,Electronics,2300.43,Bangalore,33,Basic,,2024-04-18 00:00:00,u1181@mail.com,user_181,1633.87,ST2
+U1130,2024-06-06,South,Clothing,4817.16,Pune,41,Basic,Pending,06/06/2024,u1130@mail.com,user_130,1521.34,ST5
+U1480,2024-01-22,North,Furniture,667.04,Delhi,34,Basic,,22/01/2024,u1480@mail.com,user_480,606.92,ST2
+U1367,2024-02-13,North,Toys,4125.76,Kolkata,34,Premium,,2024-02-13 00:00:00,u1367@mail.com,user_367,510.17,ST2
+U1193,2024-01-09,South,Grocery,1808.03,Kolkata,29,Premium,Inactive,09/01/2024,u1193@mail.com,user_193,2146.72,ST7
+U1430,2024-01-01,South,Furniture,693.9,Bangalore,26,Basic,Pending,2024-01-01,,user_430,1127.8,ST6
+U1341,2024-05-20,North,Clothing,2117.51,Bangalore,27,Premium,Inactive,2024-05-20,u1341@mail.com,user_341,,ST4
+U1503,2024-03-18,West,Clothing,1557.37,Pune,20,Basic,Pending,2024-03-18,u1503@mail.com,user_503,2349.4,ST8
+U1128,2024-05-03,East,Furniture,1557.43,Mumbai,16,Premium,,2024-05-03,u1128@mail.com,user_128,972.12,ST6
+U1327,2024-05-05,East,Toys,1473.31,Mumbai,33,Premium,Active,2024-05-05,u1327@mail.com,user_327,1211.46,ST3
+U1041,2024-03-24,East,Furniture,1701.54,Chennai,27,Basic,,2024-03-24T00:00:00,u1041@mail.com,user_41,203.65,ST6
+U1329,2024-03-09,South,Toys,1781.17,Mumbai,28,Premium,,2024-03-09T00:00:00,u1329@mail.com,user_329,1735.66,ST10
+U1238,2024-05-02,East,Electronics,226.1,Mumbai,24,Premium,,2024-05-02 00:00:00,u1238@mail.com,user_238,2000.07,ST2
+U1017,2024-03-01,East,Furniture,2479.64,Mumbai,27,Premium,Inactive,2024-03-01,,user_17,2366.13,ST5
+U1009,2024-01-29,North,Furniture,874.97,Mumbai,38,Basic,Inactive,2024-01-29 00:00:00,u1009@mail.com,user_9,1846.46,ST3
+U1316,2024-05-23,South,Grocery,4943.69,Bangalore,39,Basic,Inactive,2024-05-23 00:00:00,u1316@mail.com,user_316,527.3,ST4
+U1322,2024-04-14,West,Toys,454.69,Delhi,45,Premium,Pending,2024-04-14T00:00:00,u1322@mail.com,user_322,2321.4,ST6
+U1489,2024-06-18,East,Clothing,1249.65,Delhi,17,Premium,Pending,2024-06-18 00:00:00,u1489@mail.com,,1409.68,ST7
+U1319,2024-06-12,South,Furniture,152.48,Pune,44,Basic,Inactive,2024-06-12 00:00:00,u1319@mail.com,user_319,1864.81,ST1
+U1500,2024-04-09,East,Furniture,1168.24,Mumbai,21,Basic,,2024-04-09,u1500@mail.com,user_500,1155.38,ST2
+U1357,2024-05-22,South,Electronics,3854.79,Bangalore,36,Basic,,2024-05-22 00:00:00,u1357@mail.com,user_357,1045.66,ST3
+U1304,2024-05-03,North,Electronics,1172.21,Bangalore,17,Basic,Pending,03/05/2024,,user_304,1115.69,ST8
+U1080,2024-05-30,East,Furniture,3309.12,Kolkata,34,Basic,Pending,2024-05-30 00:00:00,u1080@mail.com,user_80,746.53,ST6
+U1439,2024-03-02,East,Toys,3489.2,Bangalore,37,Basic,Active,2024-03-02T00:00:00,u1439@mail.com,,396.65,ST9
+U1554,2024-03-27,West,Furniture,3705.97,Chennai,42,Premium,Active,2024-03-27T00:00:00,u1554@mail.com,user_554,617.66,ST10
+U1248,2024-05-14,West,Clothing,1044.54,Kolkata,41,Premium,Inactive,2024-05-14 00:00:00,u1248@mail.com,user_248,858.23,ST8
+U1135,2024-02-11,South,Toys,3722.66,Delhi,25,Basic,Pending,2024-02-11,u1135@mail.com,user_135,2940.7,ST10
+U1205,2024-06-02,North,Electronics,4254.67,Chennai,24,Premium,Inactive,2024-06-02,u1205@mail.com,,2866.28,ST8
+U1058,2024-05-06,South,Electronics,3030.38,Pune,38,Basic,Pending,2024-05-06 00:00:00,,user_58,1746.84,ST1
+U1156,2024-03-03,West,Furniture,2250.92,Bangalore,39,Premium,Inactive,2024-03-03T00:00:00,u1156@mail.com,user_156,1753.55,ST6
+U1230,2024-05-14,North,Electronics,1930.59,Hyderabad,27,Premium,Pending,2024-05-14T00:00:00,u1230@mail.com,user_230,1338.76,ST8
+U1405,2024-03-13,North,Toys,2915.92,Bangalore,27,Premium,Pending,2024-03-13 00:00:00,u1405@mail.com,user_405,1269.65,ST10
+U1334,2024-04-07,North,Furniture,3195.39,Mumbai,20,Basic,,2024-04-07,u1334@mail.com,,723.24,ST6
+U1056,2024-06-29,North,Furniture,448.78,Mumbai,23,Premium,,2024-06-29 00:00:00,u1056@mail.com,user_56,2488.56,ST2
+U1456,2024-04-23,West,Grocery,1026.4,Mumbai,40,Premium,Pending,2024-04-23,u1456@mail.com,user_456,1484.14,ST9
+U1459,2024-01-30,West,Grocery,2915.17,Delhi,26,Premium,Inactive,2024-01-30 00:00:00,u1459@mail.com,user_459,1372.87,ST3
+U1285,2024-01-14,West,Grocery,1095.13,Pune,42,Basic,Inactive,2024-01-14T00:00:00,u1285@mail.com,user_285,2339.63,ST4
+U1526,2024-02-15,East,Furniture,321.77,Delhi,37,Basic,Pending,2024-02-15,u1526@mail.com,user_526,1056.94,ST3
+U1446,2024-05-27,East,Electronics,2117.31,Bangalore,42,Premium,,2024-05-27,u1446@mail.com,user_446,777.63,ST6
+U1202,2024-05-02,West,Clothing,1977.04,Chennai,18,Premium,Pending,2024-05-02T00:00:00,u1202@mail.com,user_202,2271.82,ST3
+U1234,2024-04-17,East,Furniture,2516.1,Delhi,32,Basic,Active,2024-04-17,u1234@mail.com,user_234,715.47,ST8
+U1127,2024-01-11,West,Electronics,322.76,Chennai,33,Basic,Inactive,2024-01-11,u1127@mail.com,,1659.45,ST5
+U1313,2024-04-07,North,Toys,4042.64,Pune,41,Premium,,07/04/2024,u1313@mail.com,user_313,297.26,ST10
+U1335,2024-06-16,North,Grocery,3066.39,Delhi,43,Basic,Pending,2024-06-16,u1335@mail.com,user_335,,ST4
+U1233,2024-06-11,West,Grocery,2288.49,Delhi,22,Premium,Pending,2024-06-11T00:00:00,u1233@mail.com,user_233,,ST8
+U1060,2024-03-30,South,Grocery,1673.19,Mumbai,20,Basic,,2024-03-30,u1060@mail.com,user_60,1672.78,ST8
+U1525,2024-01-13,West,Electronics,2615.73,Bangalore,28,Premium,,2024-01-13T00:00:00,u1525@mail.com,user_525,97.99,ST8
+U1154,2024-01-01,West,Grocery,2368.72,Chennai,28,Basic,Inactive,01/01/2024,u1154@mail.com,user_154,2631.86,ST2
+U1295,2024-04-07,South,Electronics,2422.54,Bangalore,19,Basic,Pending,07/04/2024,u1295@mail.com,user_295,2608.06,ST6
+U1359,2024-05-20,North,Grocery,4812.09,Delhi,27,Premium,Active,2024-05-20T00:00:00,u1359@mail.com,user_359,940.43,ST5
+U1162,2024-05-21,North,Grocery,1965.24,Bangalore,26,Basic,Pending,2024-05-21T00:00:00,u1162@mail.com,user_162,2944.89,ST8
+U1372,2024-05-23,West,Electronics,1312.22,Bangalore,25,Basic,,23/05/2024,,user_372,941.86,ST9
+U1425,2024-02-03,South,Toys,4035.68,Mumbai,18,Premium,Pending,2024-02-03T00:00:00,u1425@mail.com,user_425,2771.95,ST5
+U1331,2024-04-17,South,Clothing,4978.25,Pune,31,Basic,,2024-04-17T00:00:00,u1331@mail.com,user_331,,ST2
+U1337,2024-06-07,East,Electronics,3308.68,Pune,24,Premium,Inactive,2024-06-07T00:00:00,u1337@mail.com,user_337,553.29,ST1
+U1210,2024-06-28,West,Clothing,2532.42,Delhi,31,Basic,Inactive,2024-06-28T00:00:00,u1210@mail.com,user_210,2664.92,ST1
+U1115,2024-03-14,North,Electronics,4342.41,Delhi,18,Basic,,2024-03-14,u1115@mail.com,user_115,2922.48,ST8
+U1390,2024-01-23,South,Toys,4676.07,Ahmedabad,24,Basic,Pending,2024-01-23T00:00:00,u1390@mail.com,user_390,432.65,ST10
+U1565,2024-06-04,South,Electronics,4517.08,Chennai,28,Basic,,2024-06-04 00:00:00,u1565@mail.com,user_565,,ST1
+U1189,2024-05-10,South,Furniture,3022.49,Bangalore,28,Premium,,10/05/2024,u1189@mail.com,user_189,978.01,ST8
+U1547,2024-06-09,East,Grocery,1566.09,Chennai,41,Premium,,09/06/2024,u1547@mail.com,user_547,2346.72,ST8
+U1419,2024-05-04,East,Toys,4323.87,Delhi,17,Premium,Inactive,2024-05-04,u1419@mail.com,user_419,1998.97,ST3
+U1487,2024-06-21,South,Toys,3458.33,Bangalore,30,Premium,Active,2024-06-21,u1487@mail.com,user_487,2045.64,ST5
+U1394,2024-06-14,East,Furniture,861.39,Delhi,42,Basic,,2024-06-14,u1394@mail.com,,1716.58,ST6
+U1594,2024-04-29,South,Grocery,3980.38,Delhi,21,Basic,,29/04/2024,u1594@mail.com,user_594,,ST3
+U1055,2024-03-08,West,Clothing,1275.34,Bangalore,20,Premium,,2024-03-08,u1055@mail.com,user_55,,ST5
+U1447,2024-04-21,East,Toys,4736.64,Pune,43,Premium,,2024-04-21 00:00:00,,user_447,149.18,ST9
+U1202,2024-05-02,West,Clothing,1977.04,Chennai,18,Premium,Pending,2024-05-02T00:00:00,u1202@mail.com,user_202,2271.82,ST3
+U1370,2024-03-13,East,Toys,1429.28,Delhi,45,Premium,Active,2024-03-13,u1370@mail.com,user_370,1112.65,ST2
+U1402,2024-01-14,West,Furniture,2020.39,Chennai,43,Basic,Pending,2024-01-14T00:00:00,u1402@mail.com,user_402,2437.43,ST2
+U1325,2024-05-07,East,Clothing,3703.6,Pune,21,Premium,Inactive,07/05/2024,u1325@mail.com,user_325,403.64,ST2
+U1025,2024-05-19,West,Grocery,2954.3,Mumbai,19,Premium,Pending,2024-05-19T00:00:00,u1025@mail.com,user_25,2701.83,ST4
+U1548,2024-01-26,East,Furniture,4159.34,Mumbai,16,Basic,Inactive,2024-01-26,u1548@mail.com,,1238.12,ST9
+U1513,2024-05-23,West,Toys,978.92,Mumbai,30,Basic,,23/05/2024,,user_513,818.2,ST6
+U1491,2024-03-27,South,Toys,4076.14,Chennai,20,Basic,Pending,2024-03-27,u1491@mail.com,user_491,272.2,ST9
+U1019,2024-05-10,West,Clothing,435.75,Mumbai,42,Premium,,2024-05-10 00:00:00,u1019@mail.com,user_19,167.24,ST2
+U1371,2024-01-05,North,Furniture,1232.73,Delhi,37,Premium,Pending,2024-01-05,u1371@mail.com,user_371,1526.92,ST8
+U1444,2024-02-07,East,Toys,2329.46,Delhi,19,Basic,Inactive,2024-02-07T00:00:00,u1444@mail.com,user_444,2092.02,ST1
+U1088,2024-06-24,South,Electronics,547.0,Mumbai,28,Premium,Pending,24/06/2024,u1088@mail.com,user_88,1022.46,ST2
+U1400,2024-03-22,South,Electronics,1436.01,Mumbai,18,Premium,Active,22/03/2024,u1400@mail.com,user_400,2832.67,ST5
+U1231,2024-06-15,North,Clothing,3565.2,Bangalore,43,Basic,Inactive,15/06/2024,u1231@mail.com,user_231,574.24,ST1
+U1532,2024-02-29,West,Toys,193.2,Bangalore,32,Premium,Pending,2024-02-29,u1532@mail.com,user_532,1956.23,ST8
+U1392,2024-06-06,South,Furniture,322.91,Delhi,40,Premium,Active,06/06/2024,u1392@mail.com,user_392,,ST5
+U1169,2024-01-24,South,Furniture,1948.13,Bangalore,35,Premium,Inactive,2024-01-24 00:00:00,u1169@mail.com,user_169,1719.28,ST2
+U1052,2024-05-21,North,Clothing,3225.56,Chennai,18,Premium,Pending,2024-05-21,u1052@mail.com,user_52,794.81,ST8
+U1467,2024-05-29,North,Furniture,2840.48,Delhi,15,Premium,Inactive,2024-05-29T00:00:00,u1467@mail.com,user_467,416.32,ST5
+U1596,2024-03-17,North,Toys,213.88,Kolkata,44,Premium,Inactive,2024-03-17T00:00:00,u1596@mail.com,user_596,1742.94,ST7
+U1447,2024-04-21,East,Toys,4736.64,Pune,43,Premium,,2024-04-21 00:00:00,,user_447,149.18,ST9
+U1187,2024-05-27,West,Toys,1016.1,Delhi,29,Premium,Pending,2024-05-27,u1187@mail.com,user_187,1853.36,ST10
+U1471,2024-06-09,East,Electronics,3033.94,Mumbai,25,Basic,Pending,2024-06-09T00:00:00,u1471@mail.com,user_471,1761.14,ST3
+U1194,2024-02-12,East,Clothing,4086.3,Kolkata,33,Basic,Pending,12/02/2024,u1194@mail.com,user_194,838.66,ST9
+U1536,2024-04-01,East,Clothing,4156.95,Pune,16,Premium,Pending,2024-04-01,u1536@mail.com,user_536,1484.78,ST6
+U1031,2024-06-18,West,Grocery,2584.9,Chennai,25,Basic,Pending,18/06/2024,u1031@mail.com,user_31,2257.0,ST3
+U1067,2024-05-06,West,Clothing,2561.23,Bangalore,42,Premium,,2024-05-06 00:00:00,u1067@mail.com,user_67,1259.44,ST3
+U1198,2024-05-06,North,Grocery,4158.88,Delhi,33,Premium,,2024-05-06T00:00:00,u1198@mail.com,user_198,,ST8
+U1305,2024-04-26,West,Electronics,4904.89,Delhi,37,Basic,Pending,26/04/2024,u1305@mail.com,user_305,2699.77,ST2
+U1580,2024-02-21,East,Electronics,1773.6,Chennai,37,Basic,Pending,2024-02-21T00:00:00,u1580@mail.com,user_580,1390.19,ST1
+U1478,2024-02-13,West,Electronics,4628.74,Hyderabad,42,Basic,Pending,13/02/2024,u1478@mail.com,user_478,1096.73,ST7
+U1219,2024-01-28,East,Electronics,905.44,Delhi,28,Premium,Pending,28/01/2024,u1219@mail.com,user_219,316.74,ST5
+U1486,2024-04-25,North,Furniture,2268.53,Mumbai,20,Basic,Inactive,2024-04-25,u1486@mail.com,user_486,2303.83,ST10
+U1590,2024-06-08,North,Furniture,2310.64,Delhi,26,Basic,Pending,2024-06-08T00:00:00,u1590@mail.com,user_590,1953.8,ST6
+U1311,2024-04-06,South,Clothing,631.99,Mumbai,42,Basic,Inactive,2024-04-06 00:00:00,u1311@mail.com,user_311,2639.37,ST9
+U1515,2024-03-21,South,Clothing,1646.16,Ahmedabad,39,Premium,,2024-03-21 00:00:00,u1515@mail.com,,1437.23,ST3
+U1016,2024-04-18,East,Grocery,2366.88,Pune,17,Basic,Active,2024-04-18 00:00:00,u1016@mail.com,user_16,,ST2
+U1320,2024-04-02,East,Electronics,4880.66,Mumbai,23,Basic,Pending,2024-04-02,u1320@mail.com,user_320,,ST2
+U1428,2024-01-09,West,Electronics,2899.59,Mumbai,29,Premium,,09/01/2024,u1428@mail.com,,,ST7
+U1289,2024-02-25,South,Toys,4136.07,Ahmedabad,15,Premium,Pending,2024-02-25,u1289@mail.com,user_289,769.29,ST1
+U1458,2024-03-31,North,Furniture,4785.45,Bangalore,20,Basic,Inactive,31/03/2024,u1458@mail.com,user_458,502.78,ST4
+U1569,2024-05-06,East,Toys,1049.47,Chennai,36,Premium,Active,06/05/2024,u1569@mail.com,user_569,2573.66,ST9
+U1469,2024-04-21,North,Furniture,4873.87,Kolkata,26,Premium,Pending,21/04/2024,u1469@mail.com,user_469,2095.18,ST6
+U1236,2024-03-27,South,Electronics,2213.48,Chennai,34,Basic,Inactive,2024-03-27 00:00:00,u1236@mail.com,user_236,2106.73,ST9
+U1136,2024-03-19,West,Toys,2425.49,Ahmedabad,40,Premium,Active,2024-03-19,u1136@mail.com,user_136,2531.44,ST3
+U1270,2024-01-29,East,Electronics,4909.69,Kolkata,18,Basic,,2024-01-29,u1270@mail.com,user_270,135.01,ST3
+U1493,2024-02-23,North,Electronics,3292.53,Delhi,40,Basic,,2024-02-23T00:00:00,u1493@mail.com,user_493,1387.02,ST9
+U1429,2024-03-09,East,Grocery,4532.63,Bangalore,31,Basic,,2024-03-09,u1429@mail.com,user_429,256.79,ST4
+U1563,2024-05-24,West,Grocery,539.6,Chennai,41,Premium,Pending,2024-05-24,u1563@mail.com,user_563,2657.6,ST6
+U1245,2024-02-06,South,Electronics,2039.38,Pune,37,Premium,Active,2024-02-06,u1245@mail.com,user_245,,ST5
+U1519,2024-01-21,South,Furniture,2324.87,Hyderabad,34,Premium,Pending,2024-01-21 00:00:00,u1519@mail.com,user_519,2208.06,ST10
+U1109,2024-02-07,East,Electronics,1505.71,Kolkata,37,Premium,,2024-02-07,u1109@mail.com,user_109,,ST4
+U1581,2024-05-06,East,Electronics,3229.96,Chennai,29,Premium,Inactive,2024-05-06,u1581@mail.com,user_581,2233.24,ST4
+U1272,2024-02-27,North,Toys,2663.21,Chennai,18,Basic,Inactive,2024-02-27,u1272@mail.com,user_272,2525.15,ST9
+U1105,2024-06-26,East,Furniture,314.09,Delhi,38,Premium,,2024-06-26T00:00:00,u1105@mail.com,user_105,755.55,ST8
+U1405,2024-03-13,North,Toys,2915.92,Bangalore,27,Premium,Pending,2024-03-13 00:00:00,u1405@mail.com,user_405,1269.65,ST10
+U1351,2024-03-30,North,Furniture,1449.09,Kolkata,44,Premium,Active,30/03/2024,u1351@mail.com,user_351,1389.53,ST9
+U1457,2024-05-20,South,Furniture,1590.0,Mumbai,40,Basic,Inactive,2024-05-20T00:00:00,u1457@mail.com,user_457,2544.27,ST3
+U1549,2024-05-12,South,Grocery,2963.09,Chennai,29,Basic,,12/05/2024,u1549@mail.com,user_549,431.69,ST9
+U1228,2024-05-25,East,Toys,4747.01,Kolkata,40,Basic,Pending,25/05/2024,u1228@mail.com,user_228,695.49,ST9
+U1026,2024-06-23,East,Electronics,1833.03,Bangalore,42,Basic,Inactive,23/06/2024,u1026@mail.com,user_26,2650.18,ST1
+U1137,2024-06-23,East,Electronics,2905.59,Chennai,21,Premium,,2024-06-23T00:00:00,u1137@mail.com,user_137,1530.37,ST10
+U1050,2024-06-28,South,Grocery,1602.45,Mumbai,38,Premium,Pending,2024-06-28 00:00:00,u1050@mail.com,user_50,615.05,ST8
+U1584,2024-06-22,East,Furniture,3308.86,Pune,25,Premium,Pending,2024-06-22,u1584@mail.com,user_584,2826.43,ST10
+U1242,2024-02-19,East,Electronics,2174.54,Ahmedabad,28,Premium,Inactive,2024-02-19T00:00:00,u1242@mail.com,user_242,306.73,ST9
+U1175,2024-04-23,North,Grocery,600.93,Mumbai,28,Basic,,2024-04-23 00:00:00,,user_175,1814.23,ST6
+U1047,2024-03-12,South,Clothing,3777.33,Bangalore,36,Basic,Pending,2024-03-12 00:00:00,u1047@mail.com,user_47,1096.73,ST5
+U1281,2024-03-21,East,Clothing,1127.59,Chennai,36,Basic,Inactive,21/03/2024,u1281@mail.com,user_281,390.45,ST6
+U1204,2024-02-25,West,Electronics,786.06,Mumbai,38,Basic,Pending,2024-02-25,u1204@mail.com,user_204,298.53,ST9
+U1448,2024-04-10,South,Electronics,2316.96,Mumbai,32,Premium,,10/04/2024,u1448@mail.com,user_448,317.65,ST8
+U1555,2024-05-18,West,Toys,2656.59,Chennai,31,Premium,Active,18/05/2024,u1555@mail.com,user_555,2497.59,ST10
+U1084,2024-02-14,North,Electronics,721.12,Delhi,18,Premium,,2024-02-14,u1084@mail.com,user_84,1536.32,ST10
+U1119,2024-06-14,North,Grocery,1975.99,Bangalore,34,Premium,,2024-06-14T00:00:00,u1119@mail.com,user_119,1611.91,ST7
+U1468,2024-04-16,East,Furniture,4543.29,Chennai,15,Premium,Pending,2024-04-16,u1468@mail.com,,1764.14,ST10
+U1167,2024-03-11,North,Electronics,2560.86,Chennai,28,Premium,Active,2024-03-11 00:00:00,u1167@mail.com,user_167,794.63,ST6
+U1551,2024-04-05,North,Grocery,1585.97,Bangalore,40,Premium,Inactive,2024-04-05,,user_551,685.97,ST8
+U1190,2024-06-07,West,Grocery,4764.03,Bangalore,21,Basic,,2024-06-07,u1190@mail.com,user_190,1491.66,ST2
+U1564,2024-06-11,North,Furniture,1437.76,Chennai,25,Basic,Inactive,2024-06-11,u1564@mail.com,user_564,444.49,ST1
+U1516,2024-06-29,South,Furniture,668.52,Pune,30,Premium,,2024-06-29T00:00:00,u1516@mail.com,user_516,381.85,ST3
+U1093,2024-01-30,North,Furniture,643.36,Chennai,33,Basic,Pending,2024-01-30 00:00:00,u1093@mail.com,user_93,,ST4
+U1262,2024-03-28,South,Grocery,3775.57,Mumbai,44,Basic,Active,28/03/2024,u1262@mail.com,user_262,114.64,ST9
+U1139,2024-06-05,South,Clothing,4790.95,Delhi,24,Premium,Pending,2024-06-05T00:00:00,u1139@mail.com,user_139,1465.42,ST9
+U1057,2024-01-16,East,Grocery,3015.72,Kolkata,44,Basic,,2024-01-16 00:00:00,u1057@mail.com,user_57,853.13,ST9
+U1398,2024-05-03,North,Grocery,802.15,Pune,41,Premium,Inactive,2024-05-03 00:00:00,u1398@mail.com,user_398,62.12,ST1
+U1089,2024-04-15,North,Furniture,4353.65,Chennai,45,Basic,Pending,2024-04-15T00:00:00,u1089@mail.com,user_89,1472.46,ST2
+U1407,2024-05-04,West,Toys,3020.77,Delhi,18,Basic,Inactive,2024-05-04T00:00:00,u1407@mail.com,,2451.5,ST7
+U1348,2024-05-29,West,Furniture,3966.8,Mumbai,16,Basic,Inactive,2024-05-29T00:00:00,u1348@mail.com,user_348,2073.54,ST6
+U1140,2024-03-11,North,Electronics,2910.04,Bangalore,43,Basic,Pending,11/03/2024,u1140@mail.com,user_140,1071.77,ST8
+U1294,2024-05-16,West,Toys,409.86,Chennai,16,Premium,Pending,2024-05-16 00:00:00,u1294@mail.com,user_294,880.48,ST8
+U1353,2024-05-21,East,Toys,1487.33,Delhi,25,Premium,Active,2024-05-21 00:00:00,,user_353,142.26,ST2
+U1024,2024-01-12,West,Grocery,3878.48,Chennai,23,Premium,,2024-01-12,u1024@mail.com,user_24,2088.51,ST3
+U1165,2024-02-13,East,Toys,2492.75,Hyderabad,32,Premium,Active,2024-02-13 00:00:00,u1165@mail.com,user_165,1266.56,ST4
+U1585,2024-04-21,West,Electronics,807.72,Hyderabad,40,Premium,Inactive,2024-04-21,u1585@mail.com,user_585,1926.62,ST1
+U1566,2024-06-20,South,Electronics,1829.67,Kolkata,41,Basic,,20/06/2024,u1566@mail.com,user_566,418.05,ST6
+U1129,2024-03-29,South,Clothing,3827.26,Bangalore,18,Basic,Inactive,2024-03-29,u1129@mail.com,user_129,199.29,ST7
+U1350,2024-02-19,West,Furniture,1855.02,Mumbai,43,Premium,,2024-02-19,u1350@mail.com,user_350,1721.77,ST9
+U1241,2024-05-26,East,Furniture,1564.38,Delhi,42,Premium,Inactive,2024-05-26 00:00:00,u1241@mail.com,user_241,543.14,ST4
+U1323,2024-04-27,South,Toys,4323.91,Bangalore,23,Premium,,27/04/2024,u1323@mail.com,user_323,2868.56,ST9
+U1416,2024-05-16,West,Furniture,2324.77,Pune,33,Basic,,2024-05-16T00:00:00,u1416@mail.com,user_416,154.21,ST10
+U1263,2024-02-13,West,Grocery,3584.44,Kolkata,27,Basic,Active,2024-02-13 00:00:00,u1263@mail.com,user_263,,ST2
+U1099,2024-01-15,North,Toys,463.53,Delhi,16,Premium,Pending,2024-01-15T00:00:00,,user_99,1864.27,ST9
+U1593,2024-06-16,West,Furniture,3305.05,Ahmedabad,45,Premium,,16/06/2024,u1593@mail.com,user_593,1571.68,ST9
+U1450,2024-06-09,South,Electronics,4315.87,Mumbai,43,Basic,Active,2024-06-09T00:00:00,u1450@mail.com,user_450,1650.18,ST4
+U1544,2024-06-15,South,Clothing,4416.78,Mumbai,32,Basic,,15/06/2024,u1544@mail.com,user_544,1559.43,ST5
+U1443,2024-02-28,West,Grocery,1216.13,Mumbai,28,Premium,,28/02/2024,,user_443,,ST7
+U1203,2024-06-13,East,Electronics,2699.49,Mumbai,35,Premium,,2024-06-13T00:00:00,u1203@mail.com,user_203,1264.54,ST8
+U1004,2024-04-02,East,Electronics,324.54,Mumbai,24,Premium,Inactive,2024-04-02 00:00:00,u1004@mail.com,user_4,529.83,ST6
+U1377,2024-06-04,East,Toys,1237.69,Chennai,26,Premium,,04/06/2024,u1377@mail.com,user_377,1153.18,ST7
+U1435,2024-03-19,West,Furniture,3095.01,Kolkata,17,Premium,Active,2024-03-19,u1435@mail.com,user_435,,ST4
+U1463,2024-01-22,South,Electronics,4881.61,Delhi,30,Basic,Active,2024-01-22T00:00:00,u1463@mail.com,user_463,1189.03,ST1
+U1147,2024-01-02,North,Furniture,1254.05,Chennai,45,Basic,Pending,2024-01-02 00:00:00,u1147@mail.com,user_147,2019.97,ST8
+U1575,2024-06-26,West,Clothing,403.81,Kolkata,16,Basic,,2024-06-26 00:00:00,u1575@mail.com,,,ST7
+U1020,2024-04-17,North,Grocery,1100.87,Chennai,22,Basic,,17/04/2024,u1020@mail.com,user_20,2268.0,ST2
+U1433,2024-01-05,West,Grocery,374.67,Kolkata,16,Basic,Active,05/01/2024,u1433@mail.com,user_433,2050.33,ST9
+U1261,2024-01-27,South,Toys,2984.49,Mumbai,41,Premium,Pending,2024-01-27T00:00:00,u1261@mail.com,user_261,1329.31,ST3
+U1299,2024-03-22,South,Furniture,1708.9,Chennai,37,Premium,Pending,2024-03-22T00:00:00,u1299@mail.com,user_299,2367.7,ST7
+U1383,2024-04-26,West,Grocery,1687.97,Chennai,37,Premium,Active,2024-04-26 00:00:00,u1383@mail.com,user_383,1595.26,ST7
+U1191,2024-05-24,West,Clothing,1531.24,Delhi,32,Basic,Inactive,2024-05-24,u1191@mail.com,user_191,1556.88,ST10
+U1441,2024-05-07,East,Clothing,3383.7,Mumbai,35,Basic,Pending,07/05/2024,u1441@mail.com,user_441,2287.3,ST1
+U1583,2024-02-20,East,Grocery,953.32,Pune,38,Premium,Pending,20/02/2024,u1583@mail.com,,2736.41,ST1
+U1197,2024-06-26,North,Furniture,4756.24,Delhi,15,Premium,,2024-06-26T00:00:00,u1197@mail.com,user_197,2905.98,ST4
+U1141,2024-06-16,North,Furniture,1148.54,Kolkata,23,Basic,Inactive,2024-06-16 00:00:00,u1141@mail.com,user_141,2026.01,ST9
+U1083,2024-01-01,North,Clothing,4938.88,Bangalore,40,Premium,Active,2024-01-01 00:00:00,u1083@mail.com,user_83,1787.12,ST1
+U1386,2024-03-01,East,Toys,3331.41,Delhi,29,Premium,Active,01/03/2024,u1386@mail.com,user_386,2469.36,ST4
+U1527,2024-02-24,East,Electronics,3760.44,Bangalore,42,Premium,,2024-02-24 00:00:00,,user_527,1457.5,ST7
+U1387,2024-01-13,East,Clothing,369.81,Delhi,19,Premium,Pending,2024-01-13T00:00:00,u1387@mail.com,,575.83,ST5
+U1085,2024-01-12,North,Furniture,3252.37,Mumbai,30,Basic,,2024-01-12 00:00:00,u1085@mail.com,user_85,,ST2
+U1517,2024-02-01,North,Electronics,1098.3,Delhi,41,Premium,Pending,01/02/2024,u1517@mail.com,user_517,1733.82,ST7
+U1233,2024-06-11,West,Grocery,2288.49,Delhi,22,Premium,Pending,2024-06-11T00:00:00,u1233@mail.com,user_233,,ST8
+U1180,2024-06-23,West,Furniture,4720.58,Mumbai,40,Basic,Active,2024-06-23,u1180@mail.com,user_180,795.41,ST3
+U1100,2024-04-08,South,Toys,2816.15,Kolkata,43,Premium,,08/04/2024,u1100@mail.com,user_100,232.53,ST2
+U1347,2024-05-20,West,Grocery,2458.03,Delhi,26,Premium,Inactive,2024-05-20 00:00:00,u1347@mail.com,user_347,,ST5
+U1075,2024-06-09,West,Electronics,1613.77,Delhi,33,Basic,Inactive,2024-06-09 00:00:00,u1075@mail.com,user_75,642.34,ST9
+U1008,2024-02-09,East,Furniture,3022.4,Delhi,34,Basic,Pending,2024-02-09 00:00:00,u1008@mail.com,user_8,2265.09,ST6
+U1408,2024-03-24,South,Electronics,543.61,Kolkata,43,Premium,Inactive,24/03/2024,u1408@mail.com,user_408,1369.12,ST4
+U1274,2024-05-09,East,Toys,3252.25,Delhi,22,Premium,,2024-05-09,u1274@mail.com,user_274,1368.85,ST2
+U1280,2024-04-17,East,Grocery,2049.56,Delhi,24,Basic,Inactive,17/04/2024,u1280@mail.com,user_280,931.79,ST9
+U1155,2024-01-09,South,Toys,3853.66,Pune,15,Premium,Inactive,2024-01-09 00:00:00,u1155@mail.com,,2124.69,ST1
+U1388,2024-06-05,East,Furniture,3771.74,Delhi,16,Premium,Pending,2024-06-05T00:00:00,u1388@mail.com,user_388,,ST7
+U1192,2024-01-30,North,Toys,4134.09,Delhi,41,Premium,,30/01/2024,u1192@mail.com,user_192,2266.47,ST5
+U1558,2024-02-16,West,Electronics,1560.32,Mumbai,19,Basic,Pending,2024-02-16T00:00:00,u1558@mail.com,user_558,647.55,ST10
+U1593,2024-06-16,West,Furniture,3305.05,Ahmedabad,45,Premium,,16/06/2024,u1593@mail.com,user_593,1571.68,ST9
+U1530,2024-06-28,South,Furniture,2410.3,Pune,33,Premium,Inactive,2024-06-28T00:00:00,u1530@mail.com,user_530,,ST1
+U1051,2024-03-11,North,Electronics,4179.88,Delhi,26,Premium,Pending,2024-03-11 00:00:00,u1051@mail.com,user_51,,ST1
+U1039,2024-05-27,South,Furniture,128.89,Delhi,39,Basic,,27/05/2024,u1039@mail.com,user_39,1197.13,ST7
+U1209,2024-03-20,South,Clothing,383.74,Mumbai,28,Premium,,2024-03-20 00:00:00,u1209@mail.com,user_209,402.36,ST3
+U1006,2024-01-15,East,Electronics,4044.72,Delhi,17,Premium,Pending,15/01/2024,u1006@mail.com,user_6,1403.61,ST5
+U1076,2024-04-03,North,Clothing,1359.15,Kolkata,30,Basic,Pending,2024-04-03 00:00:00,u1076@mail.com,,715.56,ST7
+U1249,2024-05-09,South,Electronics,3437.75,Mumbai,30,Basic,Inactive,2024-05-09,u1249@mail.com,user_249,2688.75,ST2
+U1048,2024-03-28,North,Toys,3535.8,Delhi,15,Premium,Active,28/03/2024,u1048@mail.com,user_48,2087.3,ST8
+U1303,2024-04-28,West,Furniture,1882.94,Mumbai,22,Premium,Inactive,2024-04-28,u1303@mail.com,user_303,2622.98,ST3
+U1071,2024-06-05,South,Toys,3447.36,Bangalore,33,Premium,Inactive,2024-06-05,u1071@mail.com,user_71,2701.78,ST8
+U1455,2024-01-28,East,Grocery,648.92,Mumbai,19,Premium,Active,2024-01-28T00:00:00,u1455@mail.com,user_455,1448.02,ST7
+U1598,2024-01-09,South,Electronics,1014.79,Mumbai,45,Basic,Pending,09/01/2024,u1598@mail.com,user_598,,ST1
+U1226,2024-03-22,East,Electronics,4489.25,Kolkata,16,Basic,Pending,22/03/2024,u1226@mail.com,user_226,836.25,ST1
+U1287,2024-01-02,North,Furniture,3577.48,Mumbai,19,Basic,Active,2024-01-02T00:00:00,u1287@mail.com,user_287,2362.89,ST6
+U1012,2024-04-18,East,Toys,3800.8,Chennai,37,Basic,,2024-04-18T00:00:00,u1012@mail.com,user_12,712.86,ST6
+U1385,2024-04-24,North,Clothing,676.01,Mumbai,21,Premium,Pending,2024-04-24 00:00:00,u1385@mail.com,user_385,66.96,ST8
+U1151,2024-04-26,East,Toys,2135.58,Bangalore,32,Basic,Pending,2024-04-26 00:00:00,u1151@mail.com,user_151,1756.02,ST1
+U1401,2024-05-26,East,Clothing,449.09,Bangalore,25,Basic,Active,26/05/2024,,user_401,,ST7
+U1116,2024-06-26,South,Grocery,4629.12,Bangalore,40,Premium,,2024-06-26 00:00:00,u1116@mail.com,user_116,916.61,ST2
+U1282,2024-05-23,South,Toys,2896.13,Chennai,28,Basic,,2024-05-23 00:00:00,u1282@mail.com,,2027.25,ST4
+U1254,2024-04-17,South,Furniture,3709.99,Bangalore,33,Premium,Pending,17/04/2024,u1254@mail.com,user_254,2824.97,ST6
+U1196,2024-06-22,South,Furniture,796.64,Bangalore,35,Basic,,2024-06-22,,user_196,1238.41,ST5
+U1577,2024-04-26,North,Toys,1043.16,Mumbai,34,Premium,Inactive,26/04/2024,u1577@mail.com,user_577,2187.64,ST8
+U1066,2024-03-23,East,Clothing,2901.81,Mumbai,39,Basic,Active,2024-03-23T00:00:00,u1066@mail.com,user_66,1188.93,ST3
+U1393,2024-05-09,North,Electronics,657.8,Delhi,27,Premium,Inactive,09/05/2024,u1393@mail.com,user_393,2752.68,ST1
+U1330,2024-06-24,East,Electronics,3632.0,Kolkata,32,Basic,,24/06/2024,u1330@mail.com,user_330,2426.72,ST3
+U1220,2024-06-29,West,Clothing,4196.03,Delhi,17,Premium,Pending,2024-06-29,u1220@mail.com,user_220,2972.5,ST1
+U1366,2024-04-20,North,Toys,539.01,Chennai,28,Basic,Pending,20/04/2024,u1366@mail.com,user_366,,ST5
+U1070,2024-01-08,West,Grocery,4001.1,Delhi,26,Basic,Inactive,08/01/2024,u1070@mail.com,user_70,551.45,ST2
+U1094,2024-03-18,East,Clothing,3844.39,Delhi,18,Premium,,2024-03-18,u1094@mail.com,user_94,1525.77,ST6
+U1069,2024-01-10,West,Clothing,3192.69,Hyderabad,22,Premium,,2024-01-10 00:00:00,u1069@mail.com,user_69,540.78,ST5
+U1022,2024-04-22,North,Toys,4920.88,Kolkata,31,Premium,Pending,2024-04-22 00:00:00,u1022@mail.com,user_22,365.76,ST9
+U1078,2024-01-28,East,Furniture,222.62,Pune,32,Basic,Inactive,2024-01-28 00:00:00,u1078@mail.com,user_78,1965.26,ST2
+U1451,2024-06-24,West,Toys,4416.15,Chennai,16,Basic,Active,2024-06-24 00:00:00,u1451@mail.com,user_451,,ST6
+U1438,2024-01-21,West,Electronics,979.12,Mumbai,35,Basic,,2024-01-21,u1438@mail.com,user_438,1593.11,ST7
+U1237,2024-03-08,North,Grocery,1263.99,Mumbai,33,Basic,Inactive,2024-03-08 00:00:00,u1237@mail.com,user_237,2002.96,ST10
+U1426,2024-04-19,North,Grocery,893.63,Mumbai,39,Premium,,2024-04-19,u1426@mail.com,,830.76,ST8
+U1315,2024-02-09,South,Toys,1342.8,Pune,28,Basic,Pending,2024-02-09,u1315@mail.com,user_315,1473.28,ST6
+U1126,2024-06-11,North,Clothing,3162.61,Bangalore,17,Premium,Inactive,11/06/2024,u1126@mail.com,user_126,2535.46,ST10
+U1229,2024-05-02,West,Grocery,4597.69,Mumbai,19,Basic,Inactive,2024-05-02T00:00:00,,user_229,467.88,ST2
+U1464,2024-03-13,North,Grocery,1609.62,Delhi,32,Premium,Inactive,2024-03-13,u1464@mail.com,user_464,533.18,ST7
+U1043,2024-04-04,East,Toys,3075.51,Chennai,18,Premium,Pending,2024-04-04 00:00:00,u1043@mail.com,user_43,2728.68,ST7
+U1005,2024-02-23,North,Electronics,3084.74,Mumbai,38,Premium,Inactive,2024-02-23,u1005@mail.com,user_5,1693.0,ST6
+U1466,2024-04-16,East,Toys,2364.39,Bangalore,44,Premium,Inactive,16/04/2024,u1466@mail.com,user_466,2477.26,ST5
+U1065,2024-01-01,North,Grocery,4203.63,Bangalore,36,Basic,Inactive,2024-01-01,u1065@mail.com,user_65,1653.12,ST8
+U1495,2024-04-03,South,Clothing,1277.83,Chennai,39,Basic,,2024-04-03,u1495@mail.com,user_495,,ST4
+U1110,2024-02-08,South,Electronics,3903.25,Mumbai,18,Premium,Inactive,2024-02-08,u1110@mail.com,user_110,,ST8
+U1256,2024-06-23,North,Electronics,1189.04,Mumbai,42,Basic,,2024-06-23T00:00:00,u1256@mail.com,user_256,397.46,ST1
+U1420,2024-02-23,North,Electronics,3247.08,Chennai,18,Premium,Inactive,2024-02-23,u1420@mail.com,user_420,2269.66,ST9
+U1375,2024-03-20,East,Furniture,4978.86,Ahmedabad,19,Premium,Pending,2024-03-20 00:00:00,u1375@mail.com,user_375,986.91,ST3
+U1206,2024-04-08,West,Clothing,2547.95,Bangalore,31,Premium,Pending,2024-04-08T00:00:00,u1206@mail.com,user_206,1127.97,ST3
+U1494,2024-02-16,West,Toys,4327.28,Bangalore,21,Basic,Pending,2024-02-16,u1494@mail.com,user_494,,ST4
+U1148,2024-03-19,East,Furniture,3461.76,Hyderabad,43,Basic,Active,2024-03-19T00:00:00,u1148@mail.com,user_148,1460.64,ST8
+U1007,2024-02-05,East,Toys,2740.99,Chennai,28,Basic,Pending,05/02/2024,u1007@mail.com,user_7,2279.56,ST2
+U1483,2024-05-31,North,Furniture,1844.88,Chennai,45,Basic,,2024-05-31T00:00:00,u1483@mail.com,user_483,1493.56,ST4
+U1291,2024-05-04,West,Grocery,4501.58,Mumbai,31,Premium,Active,04/05/2024,u1291@mail.com,user_291,1899.45,ST4
+U1474,2024-05-13,North,Clothing,3578.48,Mumbai,41,Premium,Inactive,13/05/2024,u1474@mail.com,user_474,419.77,ST3
+U1532,2024-02-29,West,Toys,193.2,Bangalore,32,Premium,Pending,2024-02-29,u1532@mail.com,user_532,1956.23,ST8
+U1391,2024-05-07,South,Furniture,4059.1,Pune,22,Basic,Inactive,2024-05-07 00:00:00,u1391@mail.com,user_391,2225.53,ST4
+U1454,2024-06-22,North,Furniture,3142.66,Kolkata,45,Premium,Inactive,2024-06-22,,user_454,2876.86,ST2
+U1417,2024-03-18,North,Electronics,3183.57,Bangalore,33,Premium,Pending,2024-03-18 00:00:00,u1417@mail.com,user_417,2561.76,ST5
+U1260,2024-05-16,East,Grocery,4755.34,Pune,39,Premium,Active,2024-05-16 00:00:00,u1260@mail.com,user_260,1065.83,ST3
+U1283,2024-03-09,East,Grocery,3448.61,Mumbai,16,Basic,Inactive,2024-03-09 00:00:00,u1283@mail.com,user_283,2042.8,ST9
+U1123,2024-04-02,North,Furniture,4037.94,Bangalore,34,Premium,Active,2024-04-02T00:00:00,u1123@mail.com,user_123,1261.85,ST7
+U1079,2024-02-05,West,Electronics,1591.39,Bangalore,18,Premium,Inactive,2024-02-05,u1079@mail.com,user_79,2840.62,ST7
+U1557,2024-01-24,West,Electronics,2754.72,Delhi,20,Basic,Active,24/01/2024,u1557@mail.com,user_557,1862.7,ST6
+U1321,2024-01-24,North,Toys,4583.54,Delhi,45,Basic,Inactive,24/01/2024,u1321@mail.com,user_321,,ST3
+U1579,2024-03-28,North,Grocery,4854.33,Bangalore,36,Premium,Active,28/03/2024,u1579@mail.com,user_579,1295.08,ST4
+U1152,2024-04-18,North,Electronics,2751.7,Mumbai,43,Premium,,2024-04-18 00:00:00,u1152@mail.com,user_152,1942.5,ST7
+U1376,2024-01-08,North,Furniture,4809.86,Delhi,38,Basic,Inactive,08/01/2024,u1376@mail.com,user_376,1855.35,ST5
+U1300,2024-03-11,North,Clothing,3429.94,Delhi,30,Basic,,2024-03-11T00:00:00,u1300@mail.com,user_300,1954.38,ST2
+U1434,2024-02-08,East,Electronics,280.7,Mumbai,35,Premium,,2024-02-08 00:00:00,u1434@mail.com,user_434,,ST1
+U1164,2024-02-20,North,Clothing,1961.21,Kolkata,30,Basic,Pending,2024-02-20,u1164@mail.com,user_164,546.29,ST6
+U1506,2024-05-12,East,Toys,3460.19,Kolkata,25,Basic,,12/05/2024,u1506@mail.com,user_506,2408.61,ST4
+U1397,2024-02-25,North,Clothing,649.93,Kolkata,39,Premium,Active,2024-02-25,u1397@mail.com,user_397,504.53,ST6
+U1326,2024-06-22,South,Toys,132.46,Pune,45,Premium,,2024-06-22T00:00:00,u1326@mail.com,user_326,2696.15,ST5
+U1404,2024-02-06,North,Grocery,2021.18,Chennai,36,Basic,Pending,2024-02-06,u1404@mail.com,,1462.02,ST3
+U1266,2024-02-21,North,Furniture,1547.22,Mumbai,30,Premium,,2024-02-21T00:00:00,u1266@mail.com,,375.77,ST10
+U1538,2024-06-05,West,Toys,305.65,Mumbai,35,Premium,Inactive,2024-06-05T00:00:00,u1538@mail.com,user_538,1542.4,ST2
+U1595,2024-05-27,East,Grocery,4722.43,Mumbai,40,Basic,Pending,27/05/2024,u1595@mail.com,user_595,2347.0,ST9
+U1510,2024-06-22,East,Furniture,983.81,Kolkata,15,Basic,Pending,22/06/2024,u1510@mail.com,user_510,2068.59,ST8
+U1302,2024-02-24,West,Toys,1377.02,Pune,32,Basic,Inactive,2024-02-24T00:00:00,u1302@mail.com,user_302,2578.63,ST3
+U1279,2024-01-13,South,Toys,2466.37,Bangalore,44,Premium,Inactive,13/01/2024,u1279@mail.com,user_279,999.44,ST7
+U1144,2024-04-11,South,Clothing,4689.38,Hyderabad,44,Basic,Active,2024-04-11 00:00:00,u1144@mail.com,user_144,1038.37,ST8
+U1552,2024-01-01,West,Toys,1808.38,Pune,28,Basic,Pending,2024-01-01,u1552@mail.com,user_552,2174.1,ST10
+U1449,2024-06-20,North,Clothing,3546.19,Pune,38,Premium,,2024-06-20,u1449@mail.com,user_449,2380.08,ST6
+U1200,2024-06-16,North,Grocery,503.86,Chennai,35,Premium,Active,2024-06-16,u1200@mail.com,user_200,1316.23,ST2
+U1042,2024-02-27,West,Electronics,3795.74,Hyderabad,21,Premium,Inactive,27/02/2024,u1042@mail.com,user_42,693.0,ST5
+U1437,2024-04-16,East,Grocery,2811.7,Delhi,44,Premium,Inactive,2024-04-16 00:00:00,u1437@mail.com,user_437,515.37,ST8
+U1560,2024-04-14,East,Electronics,1418.88,Hyderabad,36,Premium,Inactive,14/04/2024,u1560@mail.com,user_560,1925.61,ST4
+U1502,2024-01-09,West,Clothing,1339.62,Delhi,35,Basic,Active,09/01/2024,u1502@mail.com,user_502,1209.28,ST5
+U1365,2024-05-08,South,Clothing,3833.96,Bangalore,21,Basic,,08/05/2024,u1365@mail.com,user_365,764.83,ST5
+U1232,2024-06-28,South,Toys,258.68,Bangalore,44,Premium,Active,2024-06-28,u1232@mail.com,user_232,2948.02,ST3
+U1246,2024-03-20,North,Furniture,4305.35,Chennai,42,Premium,Inactive,2024-03-20T00:00:00,u1246@mail.com,user_246,844.79,ST7
+U1314,2024-05-19,South,Grocery,1026.2,Chennai,40,Premium,Active,2024-05-19 00:00:00,u1314@mail.com,user_314,1256.09,ST2
+U1168,2024-03-09,South,Electronics,1927.95,Delhi,33,Premium,Inactive,2024-03-09T00:00:00,u1168@mail.com,user_168,2581.75,ST1
+U1333,2024-01-06,South,Electronics,1820.34,Chennai,34,Premium,Inactive,2024-01-06T00:00:00,u1333@mail.com,user_333,2222.75,ST2
+U1592,2024-03-05,North,Grocery,1034.15,Bangalore,19,Basic,Active,2024-03-05T00:00:00,u1592@mail.com,user_592,2840.15,ST10
+U1473,2024-06-06,West,Furniture,2356.41,Mumbai,41,Premium,Active,2024-06-06,u1473@mail.com,user_473,1353.72,ST10
+U1264,2024-04-16,South,Furniture,705.62,Mumbai,37,Premium,Inactive,2024-04-16 00:00:00,u1264@mail.com,user_264,846.43,ST10
+U1510,2024-06-22,East,Furniture,983.81,Kolkata,15,Basic,Pending,22/06/2024,u1510@mail.com,user_510,2068.59,ST8
+U1030,2024-06-04,West,Furniture,4507.57,Mumbai,16,Basic,Active,04/06/2024,u1030@mail.com,,1024.09,ST6
+U1239,2024-06-13,South,Clothing,1918.0,Delhi,20,Basic,Active,2024-06-13T00:00:00,u1239@mail.com,user_239,1714.53,ST3
+U1251,2024-05-01,East,Clothing,3045.6,Mumbai,23,Basic,Pending,2024-05-01,u1251@mail.com,user_251,693.72,ST5
+U1163,2024-03-22,East,Grocery,1633.32,Mumbai,42,Premium,Inactive,2024-03-22 00:00:00,u1163@mail.com,user_163,1281.86,ST3
+U1150,2024-01-16,East,Toys,2729.63,Mumbai,42,Basic,Active,16/01/2024,u1150@mail.com,user_150,1364.17,ST1
+U1227,2024-02-26,South,Grocery,4682.51,Ahmedabad,20,Premium,Inactive,2024-02-26T00:00:00,u1227@mail.com,user_227,133.21,ST6
+U1354,2024-05-04,East,Electronics,255.9,Chennai,27,Basic,Pending,2024-05-04 00:00:00,u1354@mail.com,user_354,,ST4
+U1540,2024-03-09,North,Furniture,1867.15,Chennai,19,Basic,Inactive,09/03/2024,u1540@mail.com,user_540,1403.32,ST9
+U1095,2024-01-19,South,Electronics,2237.48,Delhi,17,Basic,,2024-01-19,u1095@mail.com,user_95,111.53,ST6
+U1085,2024-01-12,North,Furniture,3252.37,Mumbai,30,Basic,,2024-01-12 00:00:00,u1085@mail.com,user_85,,ST2
+U1222,2024-04-05,West,Toys,2971.98,Hyderabad,17,Premium,Active,05/04/2024,u1222@mail.com,user_222,2719.98,ST6
+U1086,2024-03-23,East,Electronics,718.34,Bangalore,33,Basic,,2024-03-23T00:00:00,u1086@mail.com,user_86,2120.25,ST9
+U1389,2024-05-20,West,Grocery,2407.0,Mumbai,42,Basic,Pending,2024-05-20,u1389@mail.com,user_389,372.44,ST9
+U1188,2024-01-30,North,Grocery,4243.04,Bangalore,41,Basic,Active,30/01/2024,u1188@mail.com,user_188,1151.25,ST3
+U1090,2024-03-30,North,Electronics,3836.77,Bangalore,40,Basic,Active,2024-03-30T00:00:00,,user_90,2768.54,ST6
+U1529,2024-01-07,East,Furniture,3278.25,Chennai,28,Premium,Active,2024-01-07T00:00:00,u1529@mail.com,user_529,393.55,ST3
+U1035,2024-04-18,East,Clothing,4040.14,Chennai,29,Premium,Inactive,2024-04-18 00:00:00,u1035@mail.com,user_35,2964.28,ST10
+U1218,2024-03-01,North,Grocery,4269.48,Hyderabad,27,Basic,Pending,2024-03-01,u1218@mail.com,,2350.81,ST10
+U1073,2024-03-01,South,Toys,1858.9,Delhi,37,Basic,Active,2024-03-01,u1073@mail.com,user_73,2246.77,ST1
+U1306,2024-05-12,North,Furniture,4866.1,Mumbai,27,Basic,Pending,2024-05-12,u1306@mail.com,user_306,,ST3
+U1221,2024-04-13,South,Toys,3765.58,Mumbai,29,Premium,Inactive,2024-04-13 00:00:00,,user_221,435.61,ST7
+U1460,2024-05-16,North,Electronics,4610.13,Delhi,30,Premium,,2024-05-16T00:00:00,u1460@mail.com,user_460,1546.86,ST5
+U1591,2024-01-22,North,Toys,2612.68,Chennai,40,Basic,Inactive,2024-01-22 00:00:00,u1591@mail.com,user_591,1034.59,ST6
+U1396,2024-05-26,South,Clothing,3016.44,Pune,39,Basic,Pending,2024-05-26 00:00:00,u1396@mail.com,user_396,1146.17,ST5
+U1395,2024-05-22,West,Clothing,2929.25,Delhi,44,Basic,Active,22/05/2024,u1395@mail.com,,1898.21,ST3
+U1111,2024-06-01,West,Toys,2917.73,Chennai,24,Basic,Active,2024-06-01T00:00:00,u1111@mail.com,user_111,302.56,ST6
+U1368,2024-01-29,West,Clothing,4749.81,Hyderabad,42,Basic,Active,2024-01-29T00:00:00,u1368@mail.com,user_368,117.11,ST4
+U1413,2024-04-18,East,Furniture,2596.13,Bangalore,29,Basic,Pending,18/04/2024,u1413@mail.com,user_413,2548.07,ST4
+U1013,2024-01-06,East,Toys,1179.07,Mumbai,35,Premium,Inactive,2024-01-06 00:00:00,u1013@mail.com,user_13,,ST4
+U1344,2024-02-08,West,Furniture,1164.22,Delhi,40,Basic,Pending,2024-02-08,u1344@mail.com,,2264.18,ST3
+U1199,2024-01-05,West,Clothing,2262.3,Mumbai,45,Basic,Inactive,05/01/2024,u1199@mail.com,user_199,2635.96,ST2
+U1214,2024-05-12,West,Furniture,437.74,Delhi,24,Basic,Pending,2024-05-12 00:00:00,u1214@mail.com,,1713.23,ST5
+U1586,2024-06-06,East,Toys,1541.5,Mumbai,22,Premium,Pending,06/06/2024,u1586@mail.com,user_586,667.25,ST2
+U1235,2024-01-19,West,Grocery,198.38,Delhi,18,Premium,Pending,19/01/2024,u1235@mail.com,user_235,,ST2
+U1578,2024-02-17,East,Clothing,4005.43,Mumbai,24,Basic,Pending,2024-02-17T00:00:00,u1578@mail.com,user_578,1435.1,ST10
+U1421,2024-02-29,South,Furniture,2425.49,Mumbai,42,Basic,Active,2024-02-29T00:00:00,u1421@mail.com,user_421,2887.2,ST1
+U1432,2024-06-10,South,Clothing,785.72,Mumbai,38,Premium,,2024-06-10,,user_432,1625.12,ST8
+U1522,2024-02-03,North,Electronics,4177.06,Bangalore,30,Basic,,2024-02-03,u1522@mail.com,user_522,1296.48,ST6
+U1217,2024-01-12,East,Toys,2123.98,Pune,29,Premium,Active,12/01/2024,u1217@mail.com,user_217,233.73,ST3
+U1097,2024-01-20,West,Toys,2598.77,Pune,26,Basic,Inactive,20/01/2024,u1097@mail.com,user_97,500.97,ST2
+U1462,2024-01-07,South,Toys,4220.3,Delhi,17,Basic,Active,07/01/2024,u1462@mail.com,user_462,869.89,ST1
+U1476,2024-03-05,West,Electronics,1578.06,Mumbai,18,Premium,Inactive,05/03/2024,u1476@mail.com,user_476,2545.29,ST5
+U1298,2024-01-19,North,Electronics,1328.37,Mumbai,33,Basic,Pending,2024-01-19T00:00:00,u1298@mail.com,user_298,1877.57,ST4
+U1064,2024-04-30,East,Furniture,2801.2,Delhi,44,Premium,Active,2024-04-30T00:00:00,u1064@mail.com,user_64,2373.77,ST5
+U1223,2024-02-01,West,Furniture,348.12,Hyderabad,28,Basic,,2024-02-01 00:00:00,u1223@mail.com,user_223,2729.5,ST5
+U1453,2024-03-23,North,Grocery,2567.47,Delhi,16,Premium,Pending,2024-03-23T00:00:00,u1453@mail.com,user_453,1436.98,ST9
+U1096,2024-02-13,South,Grocery,531.84,Kolkata,22,Basic,,2024-02-13 00:00:00,u1096@mail.com,user_96,1032.55,ST3
+U1014,2024-03-12,South,Clothing,2742.25,Chennai,43,Basic,Inactive,2024-03-12,u1014@mail.com,user_14,1321.6,ST7
+U1328,2024-04-27,West,Toys,2354.35,Chennai,15,Premium,,2024-04-27 00:00:00,u1328@mail.com,user_328,1668.26,ST4
+U1436,2024-04-19,North,Furniture,1688.75,Ahmedabad,33,Premium,Pending,19/04/2024,u1436@mail.com,user_436,406.2,ST3
+U1018,2024-04-18,South,Clothing,1030.5,Mumbai,16,Premium,Pending,2024-04-18 00:00:00,,user_18,1616.82,ST1
+U1528,2024-06-17,South,Grocery,3130.65,Ahmedabad,26,Basic,Pending,2024-06-17 00:00:00,u1528@mail.com,,96.86,ST4
+U1247,2024-06-03,West,Clothing,2264.41,Pune,28,Basic,Pending,2024-06-03 00:00:00,u1247@mail.com,user_247,1545.05,ST3
+U1550,2024-05-15,West,Clothing,2331.62,Mumbai,20,Basic,Active,2024-05-15,u1550@mail.com,user_550,1592.19,ST2
+U1514,2024-01-12,East,Furniture,4371.23,Kolkata,38,Basic,,2024-01-12T00:00:00,u1514@mail.com,user_514,2783.81,ST9
+U1208,2024-01-22,East,Grocery,509.63,Mumbai,44,Premium,Inactive,2024-01-22T00:00:00,u1208@mail.com,user_208,2059.11,ST2
+U1091,2024-01-02,East,Clothing,2874.97,Delhi,19,Premium,Active,02/01/2024,u1091@mail.com,user_91,969.33,ST6
+U1308,2024-01-30,South,Furniture,2447.2,Bangalore,35,Basic,Active,30/01/2024,,user_308,1907.14,ST1
+U1342,2024-05-12,North,Grocery,3277.44,Bangalore,23,Basic,Inactive,2024-05-12 00:00:00,u1342@mail.com,user_342,1872.3,ST5
+U1381,2024-02-18,North,Furniture,2050.4,Delhi,41,Basic,,18/02/2024,u1381@mail.com,user_381,,ST9
+U1418,2024-03-05,East,Toys,1476.76,Pune,15,Premium,Inactive,05/03/2024,u1418@mail.com,user_418,2358.46,ST4
+U1345,2024-01-15,North,Furniture,449.79,Bangalore,21,Basic,,2024-01-15 00:00:00,u1345@mail.com,user_345,2325.11,ST8
+U1472,2024-01-04,East,Toys,1478.95,Kolkata,28,Basic,Inactive,2024-01-04 00:00:00,u1472@mail.com,user_472,2395.56,ST9
+U1573,2024-01-08,South,Furniture,4059.49,Bangalore,35,Basic,Pending,08/01/2024,u1573@mail.com,user_573,210.58,ST6
+U1352,2024-04-07,East,Electronics,3136.7,Delhi,34,Premium,Pending,2024-04-07 00:00:00,u1352@mail.com,user_352,1596.01,ST8
+U1416,2024-05-16,West,Furniture,2324.77,Pune,33,Basic,,2024-05-16T00:00:00,u1416@mail.com,user_416,154.21,ST10
+U1040,2024-02-12,South,Clothing,4905.54,Bangalore,44,Basic,Active,2024-02-12 00:00:00,u1040@mail.com,user_40,198.34,ST7
+U1087,2024-02-25,South,Furniture,4451.65,Delhi,41,Basic,,2024-02-25,u1087@mail.com,user_87,801.92,ST3
+U1182,2024-01-28,East,Grocery,915.06,Bangalore,33,Basic,Pending,2024-01-28,u1182@mail.com,user_182,2253.22,ST9
+U1033,2024-06-17,West,Grocery,2625.71,Bangalore,25,Premium,Inactive,2024-06-17T00:00:00,u1033@mail.com,user_33,,ST4
+U1587,2024-04-30,West,Clothing,2592.21,Chennai,35,Basic,,2024-04-30,u1587@mail.com,user_587,1475.73,ST8
+U1146,2024-03-16,East,Clothing,3093.68,Chennai,27,Basic,Pending,2024-03-16 00:00:00,u1146@mail.com,user_146,1458.49,ST4
+U1159,2024-02-27,North,Clothing,4048.3,Pune,32,Basic,,27/02/2024,u1159@mail.com,user_159,283.26,ST8
+U1173,2024-04-11,North,Electronics,3207.2,Kolkata,29,Basic,Inactive,2024-04-11T00:00:00,u1173@mail.com,user_173,1778.33,ST7
+U1533,2024-06-27,South,Electronics,890.53,Chennai,30,Basic,,27/06/2024,u1533@mail.com,user_533,2769.12,ST8
+U1534,2024-02-03,North,Furniture,4803.04,Kolkata,36,Basic,,03/02/2024,u1534@mail.com,user_534,2017.82,ST3
+U1409,2024-06-23,North,Grocery,2894.35,Pune,24,Basic,Pending,2024-06-23 00:00:00,u1409@mail.com,user_409,2550.53,ST5
+U1523,2024-06-06,East,Furniture,3190.36,Mumbai,31,Basic,,06/06/2024,u1523@mail.com,user_523,1605.47,ST9
+U1201,2024-06-29,West,Electronics,1145.76,Mumbai,33,Premium,,2024-06-29 00:00:00,,user_201,2588.0,ST3
+U1427,2024-01-18,South,Clothing,3090.48,Mumbai,30,Premium,Inactive,2024-01-18,u1427@mail.com,user_427,2160.43,ST2
+U1382,2024-02-06,South,Furniture,543.16,Bangalore,20,Premium,,2024-02-06,u1382@mail.com,,2695.02,ST4
+U1293,2024-01-14,East,Grocery,2834.61,Bangalore,22,Basic,,2024-01-14,u1293@mail.com,user_293,1199.03,ST2
+U1349,2024-06-09,West,Electronics,1842.04,Mumbai,32,Premium,Inactive,2024-06-09,u1349@mail.com,user_349,2282.26,ST8
+U1072,2024-03-14,East,Electronics,2264.48,Delhi,33,Basic,,2024-03-14T00:00:00,u1072@mail.com,user_72,2567.34,ST2
+U1545,2024-05-13,North,Clothing,214.77,Pune,32,Basic,Inactive,2024-05-13T00:00:00,u1545@mail.com,user_545,226.84,ST6
+U1511,2024-01-22,West,Furniture,752.7,Delhi,37,Basic,Inactive,2024-01-22,u1511@mail.com,user_511,331.07,ST1
+U1576,2024-04-12,West,Toys,3784.62,Mumbai,34,Premium,,2024-04-12,u1576@mail.com,user_576,348.77,ST1
+U1556,2024-04-23,West,Toys,3073.59,Delhi,16,Basic,Active,2024-04-23T00:00:00,u1556@mail.com,user_556,986.28,ST5
+U1166,2024-01-18,East,Electronics,1171.73,Delhi,16,Basic,,2024-01-18 00:00:00,,user_166,,ST9
+U1490,2024-05-25,South,Grocery,199.97,Bangalore,15,Basic,,2024-05-25,u1490@mail.com,user_490,2088.05,ST4
+U1553,2024-02-03,East,Toys,3218.66,Chennai,36,Basic,Inactive,2024-02-03T00:00:00,,user_553,1192.34,ST7
+U1549,2024-05-12,South,Grocery,2963.09,Chennai,29,Basic,,12/05/2024,u1549@mail.com,user_549,431.69,ST9
+U1134,2024-02-20,South,Toys,297.25,Mumbai,37,Basic,,2024-02-20,u1134@mail.com,user_134,2797.54,ST6
+U1061,2024-01-23,North,Grocery,1684.04,Ahmedabad,27,Premium,,2024-01-23,,user_61,1520.55,ST8
+U1027,2024-02-15,North,Furniture,4030.95,Pune,40,Premium,Pending,15/02/2024,u1027@mail.com,user_27,2582.85,ST4
+U1101,2024-03-28,West,Toys,3266.02,Mumbai,37,Basic,,28/03/2024,u1101@mail.com,user_101,2334.67,ST10
+U1521,2024-01-23,West,Clothing,898.41,Kolkata,24,Premium,Active,2024-01-23T00:00:00,u1521@mail.com,user_521,964.8,ST10
+U1364,2024-05-27,West,Clothing,2216.48,Kolkata,19,Premium,Pending,2024-05-27 00:00:00,u1364@mail.com,user_364,824.55,ST7
+U1310,2024-02-13,East,Furniture,3044.11,Kolkata,41,Premium,Pending,13/02/2024,u1310@mail.com,user_310,1792.26,ST4
+U1253,2024-03-11,North,Grocery,1022.96,Bangalore,22,Premium,,2024-03-11T00:00:00,u1253@mail.com,user_253,2992.53,ST5
+U1482,2024-01-27,East,Electronics,1882.18,Mumbai,21,Basic,Active,27/01/2024,u1482@mail.com,user_482,2154.81,ST10
+U1442,2024-01-27,West,Toys,961.85,Kolkata,30,Premium,Active,27/01/2024,u1442@mail.com,user_442,636.32,ST6
+U1477,2024-05-28,North,Grocery,886.73,Bangalore,38,Premium,Active,2024-05-28 00:00:00,u1477@mail.com,user_477,2161.64,ST5
+U1023,2024-02-09,North,Grocery,3063.67,Chennai,21,Basic,,2024-02-09T00:00:00,u1023@mail.com,user_23,1299.55,ST5
+U1063,2024-01-04,South,Electronics,1201.03,Kolkata,18,Basic,Active,04/01/2024,u1063@mail.com,user_63,856.6,ST8
+U1149,2024-06-04,North,Furniture,3539.51,Pune,39,Premium,Inactive,2024-06-04 00:00:00,u1149@mail.com,user_149,2755.87,ST2
+U1484,2024-06-09,East,Electronics,588.06,Mumbai,17,Basic,Active,09/06/2024,u1484@mail.com,user_484,1884.8,ST2
+U1568,2024-04-02,West,Grocery,2514.91,Chennai,34,Premium,Active,02/04/2024,u1568@mail.com,user_568,868.18,ST9
+U1258,2024-05-25,South,Clothing,1650.28,Chennai,39,Premium,,2024-05-25T00:00:00,u1258@mail.com,user_258,63.9,ST5
+U1053,2024-01-30,West,Furniture,2509.56,Bangalore,36,Premium,Inactive,30/01/2024,u1053@mail.com,user_53,782.16,ST9
+U1243,2024-04-11,North,Grocery,2646.47,Hyderabad,15,Basic,Active,2024-04-11,u1243@mail.com,user_243,2896.25,ST2
+U1174,2024-01-22,North,Clothing,3594.23,Mumbai,19,Basic,Inactive,2024-01-22,u1174@mail.com,user_174,,ST5
+U1036,2024-03-22,South,Toys,4093.53,Pune,28,Basic,Inactive,2024-03-22,u1036@mail.com,user_36,868.07,ST9
+U1179,2024-03-22,North,Furniture,4842.04,Kolkata,25,Basic,Pending,2024-03-22,u1179@mail.com,user_179,2991.93,ST3
+U1121,2024-06-26,South,Clothing,700.92,Pune,29,Premium,,2024-06-26 00:00:00,u1121@mail.com,user_121,2020.13,ST2
+U1276,2024-04-03,West,Clothing,4237.16,Delhi,39,Basic,Pending,2024-04-03,u1276@mail.com,user_276,1057.0,ST5
+U1045,2024-04-19,North,Electronics,2579.21,Delhi,42,Basic,,2024-04-19 00:00:00,u1045@mail.com,user_45,1406.23,ST3
+U1301,2024-03-12,East,Toys,1062.52,Chennai,35,Premium,Active,2024-03-12 00:00:00,u1301@mail.com,user_301,1757.76,ST10
+U1077,2024-05-22,North,Electronics,3974.34,Mumbai,32,Premium,,2024-05-22T00:00:00,u1077@mail.com,user_77,2476.13,ST6
+U1369,2024-05-17,East,Clothing,2777.48,Chennai,32,Basic,Inactive,2024-05-17 00:00:00,u1369@mail.com,user_369,803.6,ST1
+U1213,2024-05-21,South,Clothing,1676.83,Delhi,38,Basic,Pending,2024-05-21 00:00:00,u1213@mail.com,user_213,205.38,ST4
+U1268,2024-01-11,North,Grocery,4027.82,Delhi,38,Premium,Active,2024-01-11 00:00:00,,user_268,1019.55,ST8
+U1312,2024-05-08,West,Electronics,2462.98,Mumbai,34,Premium,,2024-05-08,u1312@mail.com,,726.98,ST8
+U1445,2024-03-12,East,Electronics,4273.09,Delhi,20,Basic,Inactive,2024-03-12T00:00:00,u1445@mail.com,user_445,1854.01,ST3
+U1504,2024-04-30,South,Grocery,3615.19,Pune,41,Premium,Inactive,2024-04-30T00:00:00,u1504@mail.com,user_504,2449.61,ST6
+U1496,2024-04-15,North,Grocery,3265.61,Delhi,34,Premium,,15/04/2024,u1496@mail.com,user_496,2490.33,ST8
+U1034,2024-05-01,West,Furniture,2130.76,Bangalore,21,Basic,,2024-05-01,u1034@mail.com,user_34,,ST2
+U1010,2024-04-05,East,Toys,4772.15,Hyderabad,44,Premium,Pending,2024-04-05,,user_10,2503.41,ST5
+U1161,2024-02-23,North,Grocery,4789.4,Mumbai,44,Premium,Active,2024-02-23,u1161@mail.com,user_161,1220.06,ST4
+U1286,2024-03-16,South,Clothing,4918.92,Mumbai,45,Premium,Active,2024-03-16,,user_286,524.74,ST5
+U1296,2024-01-03,East,Electronics,304.69,Bangalore,27,Premium,Pending,03/01/2024,u1296@mail.com,user_296,1267.33,ST9
+U1278,2024-02-18,North,Electronics,3810.03,Mumbai,35,Premium,,2024-02-18,u1278@mail.com,user_278,1521.54,ST9
+U1570,2024-03-11,East,Electronics,4960.56,Chennai,32,Basic,,2024-03-11 00:00:00,u1570@mail.com,user_570,203.0,ST6
+U1485,2024-01-20,South,Furniture,1089.47,Chennai,30,Basic,Pending,2024-01-20 00:00:00,u1485@mail.com,,2749.07,ST7
+U1497,2024-05-04,South,Furniture,3269.92,Mumbai,20,Basic,Inactive,2024-05-04 00:00:00,u1497@mail.com,user_497,569.16,ST1
+U1183,2024-05-28,East,Furniture,1933.19,Delhi,36,Premium,Pending,2024-05-28 00:00:00,u1183@mail.com,user_183,303.27,ST3
+U1597,2024-04-07,East,Furniture,412.18,Delhi,30,Premium,Pending,2024-04-07,u1597@mail.com,user_597,2040.91,ST3
+U1037,2024-05-04,East,Grocery,2255.38,Chennai,22,Basic,Pending,2024-05-04T00:00:00,u1037@mail.com,user_37,1179.95,ST3
+U1157,2024-03-01,North,Clothing,4929.91,Bangalore,28,Basic,Pending,2024-03-01 00:00:00,u1157@mail.com,user_157,566.64,ST7
+U1003,2024-04-07,West,Grocery,4252.72,Bangalore,40,Premium,,2024-04-07 00:00:00,u1003@mail.com,user_3,2496.74,ST10
+U1509,2024-04-21,South,Furniture,680.71,Chennai,21,Basic,Pending,2024-04-21,u1509@mail.com,user_509,685.92,ST5
+U1498,2024-05-04,West,Electronics,4311.96,Mumbai,34,Basic,Active,2024-05-04,u1498@mail.com,user_498,1220.84,ST3
+U1309,2024-05-26,East,Electronics,915.07,Hyderabad,31,Basic,Active,2024-05-26T00:00:00,u1309@mail.com,user_309,1440.67,ST8
+U1290,2024-06-23,North,Furniture,4588.07,Hyderabad,27,Basic,Pending,2024-06-23 00:00:00,u1290@mail.com,user_290,2418.31,ST8
+U1561,2024-02-06,North,Toys,4928.01,Kolkata,32,Basic,,2024-02-06 00:00:00,,user_561,903.29,ST3
+U1415,2024-03-12,South,Toys,483.35,Pune,17,Premium,,2024-03-12 00:00:00,u1415@mail.com,user_415,1858.47,ST6
+U1422,2024-01-25,North,Furniture,3091.38,Chennai,23,Basic,Pending,2024-01-25T00:00:00,u1422@mail.com,user_422,1410.27,ST4
+U1142,2024-02-27,East,Electronics,590.97,Delhi,30,Premium,Inactive,2024-02-27 00:00:00,u1142@mail.com,user_142,1976.03,ST8
+U1224,2024-03-12,South,Clothing,269.78,Bangalore,22,Basic,,2024-03-12,u1224@mail.com,user_224,1179.9,ST7
+U1184,2024-03-30,North,Grocery,2331.13,Mumbai,30,Basic,,2024-03-30 00:00:00,u1184@mail.com,user_184,935.78,ST2
+U1588,2024-05-01,North,Toys,2064.64,Hyderabad,33,Premium,Inactive,01/05/2024,u1588@mail.com,user_588,694.85,ST7
+U1512,2024-01-14,North,Clothing,2407.57,Delhi,34,Premium,Active,2024-01-14T00:00:00,u1512@mail.com,user_512,2030.22,ST3
+U1118,2024-03-11,West,Electronics,3388.8,Delhi,31,Premium,Active,11/03/2024,u1118@mail.com,user_118,422.38,ST4
+U1002,2024-02-20,South,Clothing,2301.12,Delhi,42,Premium,Inactive,2024-02-20,u1002@mail.com,user_2,1042.95,ST2
+U1114,2024-01-10,North,Clothing,314.65,Mumbai,16,Basic,Pending,2024-01-10,u1114@mail.com,user_114,2272.21,ST4
+U1600,2024-02-03,East,Grocery,2217.78,Chennai,30,Premium,Pending,03/02/2024,u1600@mail.com,user_600,71.96,ST3
+U1166,2024-01-18,East,Electronics,1171.73,Delhi,16,Basic,,2024-01-18 00:00:00,,user_166,,ST9
+U1185,2024-01-06,North,Electronics,3417.98,Mumbai,38,Premium,Inactive,06/01/2024,u1185@mail.com,user_185,2403.38,ST3
+U1373,2024-03-11,West,Grocery,4405.52,Pune,41,Premium,Pending,11/03/2024,u1373@mail.com,user_373,309.0,ST7
+U1275,2024-05-07,West,Electronics,2076.85,Mumbai,32,Premium,Active,2024-05-07T00:00:00,u1275@mail.com,user_275,1395.81,ST6
+U1001,2024-06-12,West,Electronics,3733.6,Mumbai,19,Premium,Active,2024-06-12,,user_1,1825.96,ST9
+U1567,2024-02-19,South,Electronics,1185.45,Mumbai,23,Basic,Inactive,2024-02-19 00:00:00,u1567@mail.com,user_567,702.39,ST8
+U1541,2024-06-23,North,Electronics,2268.64,Kolkata,37,Premium,Active,2024-06-23T00:00:00,u1541@mail.com,user_541,231.33,ST1
+U1501,2024-03-22,South,Furniture,3445.42,Hyderabad,43,Premium,Pending,2024-03-22,u1501@mail.com,user_501,,ST10
+U1384,2024-05-10,East,Furniture,2796.69,Mumbai,20,Basic,Inactive,10/05/2024,u1384@mail.com,user_384,1287.77,ST5
+U1406,2024-03-03,East,Furniture,1980.7,Delhi,41,Basic,,2024-03-03T00:00:00,u1406@mail.com,user_406,279.79,ST10
+U1562,2024-01-01,West,Furniture,1439.18,Mumbai,36,Basic,Pending,01/01/2024,u1562@mail.com,user_562,,ST9
+U1021,2024-01-03,South,Toys,4992.43,Ahmedabad,17,Premium,Pending,03/01/2024,u1021@mail.com,user_21,1140.1,ST3
+U1177,2024-04-21,North,Furniture,1568.79,Kolkata,26,Basic,Inactive,2024-04-21,u1177@mail.com,user_177,948.74,ST7
+U1336,2024-06-18,North,Electronics,1131.8,Delhi,18,Premium,,2024-06-18 00:00:00,,user_336,295.59,ST5
+U1380,2024-05-14,West,Toys,635.65,Delhi,43,Premium,Inactive,2024-05-14,u1380@mail.com,,2307.22,ST1
+U1546,2024-03-07,North,Electronics,333.89,Chennai,18,Basic,Pending,2024-03-07 00:00:00,u1546@mail.com,user_546,2967.55,ST10
+U1172,2024-03-25,South,Clothing,3973.44,Chennai,17,Basic,Active,2024-03-25 00:00:00,u1172@mail.com,user_172,2318.57,ST10
+U1520,2024-02-03,East,Electronics,4027.63,Delhi,40,Premium,Active,2024-02-03,,user_520,2324.09,ST7
+U1508,2024-02-20,North,Clothing,343.94,Bangalore,34,Basic,Inactive,2024-02-20 00:00:00,u1508@mail.com,user_508,91.64,ST9
+U1153,2024-04-05,South,Furniture,4361.14,Pune,27,Premium,Inactive,2024-04-05T00:00:00,u1153@mail.com,user_153,425.67,ST4
+U1414,2024-05-08,North,Furniture,4640.17,Bangalore,16,Premium,,2024-05-08T00:00:00,u1414@mail.com,user_414,469.16,ST9
+U1582,2024-04-12,East,Electronics,1877.8,Mumbai,15,Premium,Inactive,2024-04-12T00:00:00,u1582@mail.com,user_582,1111.73,ST1
+U1317,2024-05-10,South,Grocery,4024.18,Bangalore,36,Premium,Inactive,2024-05-10,u1317@mail.com,,478.72,ST10
+U1259,2024-02-23,East,Toys,3845.97,Bangalore,39,Premium,Inactive,2024-02-23,u1259@mail.com,user_259,1180.78,ST1
+U1475,2024-01-21,South,Electronics,480.9,Kolkata,39,Basic,Active,21/01/2024,u1475@mail.com,user_475,224.83,ST2
+U1338,2024-06-18,North,Grocery,4334.78,Bangalore,42,Basic,,18/06/2024,u1338@mail.com,user_338,1812.87,ST10
+U1539,2024-02-09,North,Grocery,4113.89,Mumbai,21,Basic,,2024-02-09 00:00:00,u1539@mail.com,user_539,1539.82,ST2
+U1505,2024-04-26,West,Electronics,3242.73,Mumbai,29,Premium,Active,2024-04-26,u1505@mail.com,user_505,376.94,ST4
+U1399,2024-06-24,West,Grocery,2387.69,Mumbai,31,Basic,Active,2024-06-24T00:00:00,u1399@mail.com,user_399,895.37,ST9
+U1424,2024-03-30,East,Grocery,1334.29,Mumbai,34,Premium,Active,30/03/2024,u1424@mail.com,user_424,403.93,ST10
+U1024,2024-01-12,West,Grocery,3878.48,Chennai,23,Premium,,2024-01-12,u1024@mail.com,user_24,2088.51,ST3
+U1481,2024-05-01,North,Clothing,162.65,Chennai,36,Premium,,2024-05-01,u1481@mail.com,user_481,1214.69,ST10
+U1423,2024-06-21,East,Toys,1753.29,Chennai,20,Basic,Active,2024-06-21 00:00:00,u1423@mail.com,,356.53,ST8
+U1120,2024-03-21,North,Clothing,4806.55,Mumbai,20,Basic,,2024-03-21 00:00:00,u1120@mail.com,user_120,2989.28,ST5
+U1257,2024-06-11,West,Furniture,4458.19,Bangalore,42,Basic,Pending,2024-06-11,,user_257,640.87,ST7
+U1250,2024-03-13,West,Furniture,343.29,Pune,39,Premium,Inactive,13/03/2024,u1250@mail.com,user_250,109.15,ST1
