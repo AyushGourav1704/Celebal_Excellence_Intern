@@ -1,0 +1,16 @@
+Customer_ID,Customer_Name,Segment,City,State,Region,Postal_Code
+AG-10270,Alejandro Grove,Corporate,Updated_City,Utah,West,84084
+RB-19705,Roger Barcio,Corporate,Updated_City,Oregon,West,97206
+ER-13855,Elpida Rittenbach,Corporate,Updated_City,Minnesota,Central,55106
+RM-19675,Robert Marley,Corporate,Updated_City,Louisiana,South,71203
+SK-19990,Sally Knutson,Corporate,Updated_City,Connecticut,East,6824
+KL-16555,Kelly Lampkin,Corporate,Updated_City,Colorado,West,80906
+JE-15475,Jeremy Ellison,Corporate,Updated_City,New York,East,12180
+LS-17245,Lynn Smith,Corporate,Updated_City,Missouri,Central,64118
+DJ-13420,Denny Joy,Corporate,Updated_City,Georgia,South,31088
+JO-15550,Jesus Ocampo,Corporate,Updated_City,Pennsylvania,East,19013
+NEW-001,Laxmi Test1,Consumer,Bhubaneswar,Odisha,East,751001
+NEW-002,Laxmi Test2,Consumer,Bhubaneswar,Odisha,East,751001
+NEW-003,Laxmi Test3,Consumer,Bhubaneswar,Odisha,East,751001
+NEW-004,Laxmi Test4,Consumer,Bhubaneswar,Odisha,East,751001
+NEW-005,Laxmi Test5,Consumer,Bhubaneswar,Odisha,East,751001
