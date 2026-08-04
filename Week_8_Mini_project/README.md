@@ -243,46 +243,6 @@ Revenue = Quantity × Unit Price × (1 − Discount / 100)
 - Negative Quantity (Returns)
 - Referential Integrity Validation
 
----
-
-# 📸 Project Screenshots
-
-## 📌 Part 1 – Data Generation
-
-![Part 1](ss_project/part_1.png)
-
----
-
-## 📌 Part 2 – Data Cleaning
-
-![Part 2](ss_project/part_2.png)
-
----
-
-## 📌 Database Loading
-
-![Load DB](ss_project/load_db.png)
-
----
-
-## 📌 SQL Query Execution
-
-![Run Queries](ss_project/run_queries.png)
-
----
-
-## 📌 CLI Report
-
-![CLI Report](ss_project/part_4.png)
-
----
-
-## 📌 Edge Case Testing
-
-![Edge Cases](ss_project/part_5.png)
-
----
-
 # 🎯 Learning Outcomes
 
 This project helped in understanding:
