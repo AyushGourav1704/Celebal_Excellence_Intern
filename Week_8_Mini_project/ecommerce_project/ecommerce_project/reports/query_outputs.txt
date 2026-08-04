@@ -1,0 +1,233 @@
+================================================================================
+1. Total revenue per category
+================================================================================
+category | total_revenue
+Clothing | 15155272.62
+Home | 13955342.82
+Books | 12295753.39
+Electronics | 11092128.86
+... (4 total rows)
+
+================================================================================
+2. Top 10 customers by total order value
+================================================================================
+customer_id | customer_name | total_order_value
+488 | James Li | 425256.57
+567 | Mary Ali | 407778.63
+423 | Ming Jones | 375929.63
+500 | Navya Kim | 373647.66
+7 | Robert Li | 347849.84
+491 | Krishna Singh | 345638.87
+343 | Mary Johnson | 338539.94
+357 | Linda Smith | 336882.98
+476 | Ahmed Rao | 322316.48
+186 | Ming Nakamura | 321169.02
+... (10 total rows)
+
+================================================================================
+3. Month-wise order count for the last 12 months
+================================================================================
+order_month | order_count
+2024-12 | 3
+2025-01 | 45
+2025-02 | 33
+2025-03 | 36
+2025-04 | 23
+2025-05 | 25
+2025-06 | 29
+2025-07 | 35
+2025-08 | 26
+2025-09 | 30
+... (13 total rows)
+
+================================================================================
+4. Customers who placed orders but never had any item delivered
+================================================================================
+customer_id | customer_name
+12 | Arjun Li
+15 | Saanvi Wang
+16 | Elizabeth Kumar
+17 | Omar Brown
+22 | Chen Kim
+26 | Yuki Sharma
+30 | Layla Brown
+37 | Jennifer Johnson
+39 | Aadhya Davis
+57 | Rohan Mehta
+... (115 total rows)
+
+================================================================================
+5. Products that were ordered but had more returns than purchases
+================================================================================
+product_id | product_name | total_purchased | total_returned
+... (0 total rows)
+
+================================================================================
+6. Return rate (returned items / total items) per category
+================================================================================
+category | returned_items | total_items | return_rate_percent
+Books | 55 | 1914 | 2.87
+Clothing | 66 | 2517 | 2.62
+Home | 60 | 2329 | 2.58
+Electronics | 44 | 1821 | 2.42
+... (4 total rows)
+
+================================================================================
+7. Running totals with window functions
+================================================================================
+region_code | order_date | daily_revenue | running_total
+CENTRAL | 2023-01-17 | 70720.37 | 70720.37
+CENTRAL | 2023-01-18 | 19576.76 | 90297.13
+CENTRAL | 2023-01-19 | 69768.17 | 160065.3
+CENTRAL | 2023-01-22 | 2997.83 | 163063.13
+CENTRAL | 2023-01-25 | 71986.73 | 235049.85
+CENTRAL | 2023-01-29 | 76969.91 | 312019.76
+CENTRAL | 2023-01-30 | 39780.81 | 351800.57
+CENTRAL | 2023-02-04 | 153560.17 | 505360.74
+CENTRAL | 2023-02-09 | 19802.86 | 525163.6
+CENTRAL | 2023-02-20 | 104615.97 | 629779.57
+... (943 total rows)
+
+================================================================================
+8. Ranking with DENSE_RANK
+================================================================================
+category | product_name | total_revenue | rank_in_category
+Books | Bedsheet Set | 1274763.51 | 1
+Books | Running Shoes Plus | 729208.72 | 2
+Books | Bedsheet Set Plus | 688940.33 | 3
+Books | Mystery Novel Classic | 665485.41 | 4
+Books | Wireless Earbuds | 631048.53 | 5
+Books | Yoga Mat | 540024.93 | 6
+Books | Usb Cable Lite | 465429.36 | 7
+Books | Usb Cable Classic | 411579.24 | 8
+Books | History Textbook Plus | 397959.11 | 9
+Books | Wall Clock Max | 388847.8 | 10
+... (130 total rows)
+
+================================================================================
+9. LAG/LEAD analysis
+================================================================================
+customer_id | order_date | previous_order_date | days_gap | risk_flag
+2.0 | 2023-11-23 | None | None | At Risk
+2.0 | 2024-08-13 | 2023-11-23 | 264.0 | At Risk
+2.0 | 2025-05-12 | 2024-08-13 | 272.0 | At Risk
+4.0 | 2024-05-28 | None | None | At Risk
+4.0 | 2025-02-09 | 2024-05-28 | 257.0 | At Risk
+6.0 | 2023-02-21 | None | None | At Risk
+6.0 | 2025-02-13 | 2023-02-21 | 723.0 | At Risk
+7.0 | 2023-07-15 | None | None | At Risk
+7.0 | 2023-10-13 | 2023-07-15 | 90.0 | At Risk
+7.0 | 2024-04-12 | 2023-10-13 | 182.0 | At Risk
+... (958 total rows)
+
+================================================================================
+10. CTE with multiple levels
+================================================================================
+order_month | revenue_category | customer_count
+2023-01 | High | 30
+2023-01 | Low | 3
+2023-01 | Medium | 1
+2023-02 | High | 14
+2023-02 | Low | 3
+2023-02 | Medium | 4
+2023-03 | High | 16
+2023-03 | Low | 4
+2023-03 | Medium | 2
+2023-04 | High | 28
+... (97 total rows)
+
+================================================================================
+11. NTILE for segmentation
+================================================================================
+customer_id | total_value | quartile | quartile_label
+488.0 | 425256.57 | 1 | Platinum
+567.0 | 407778.63 | 1 | Platinum
+423.0 | 375929.63 | 1 | Platinum
+500.0 | 373647.66 | 1 | Platinum
+7.0 | 347849.84 | 1 | Platinum
+491.0 | 345638.87 | 1 | Platinum
+343.0 | 338539.94 | 1 | Platinum
+357.0 | 336882.98 | 1 | Platinum
+476.0 | 322316.48 | 1 | Platinum
+186.0 | 321169.02 | 1 | Platinum
+... (496 total rows)
+
+================================================================================
+12. Year-over-year comparison
+================================================================================
+year | month | revenue | prev_year_revenue | yoy_growth_percent
+2023 | 1 | 1871596.39 | None | None
+2023 | 2 | 920873.95 | None | None
+2023 | 3 | 1270460.6 | None | None
+2023 | 4 | 1793107.21 | None | None
+2023 | 5 | 1543217.68 | None | None
+2023 | 6 | 1824999.78 | None | None
+2023 | 7 | 2133226.83 | None | None
+2023 | 8 | 1501427.34 | None | None
+2023 | 9 | 955635.44 | None | None
+2023 | 10 | 1778285.3 | None | None
+... (36 total rows)
+
+================================================================================
+13. First/Last value analysis
+================================================================================
+customer_id | first_category | last_category | category_shift
+2.0 | Home | Electronics | Yes
+4.0 | Books | Home | Yes
+6.0 | Books | Clothing | Yes
+7.0 | Home | Home | No
+9.0 | Clothing | Home | Yes
+10.0 | Clothing | Home | Yes
+11.0 | Home | Home | No
+12.0 | Home | Electronics | Yes
+13.0 | Home | Home | No
+14.0 | Books | Electronics | Yes
+... (496 total rows)
+
+================================================================================
+14. Cumulative distribution
+================================================================================
+customer_id | revenue | cumulative_revenue | cumulative_percent
+488.0 | 425256.57 | 425256.57 | 0.86
+567.0 | 407778.63 | 833035.2 | 1.69
+423.0 | 375929.63 | 1208964.83 | 2.45
+500.0 | 373647.66 | 1582612.49 | 3.21
+7.0 | 347849.84 | 1930462.34 | 3.91
+491.0 | 345638.87 | 2276101.2 | 4.61
+343.0 | 338539.94 | 2614641.15 | 5.3
+357.0 | 336882.98 | 2951524.13 | 5.98
+476.0 | 322316.48 | 3273840.61 | 6.64
+186.0 | 321169.02 | 3595009.63 | 7.29
+... (496 total rows)
+
+================================================================================
+15. Complex CTE: Cohort analysis
+================================================================================
+cohort_month | cohort_size | active_month_0 | active_month_1 | active_month_2 | active_month_3 | retention_month_0_pct | retention_month_1_pct | retention_month_2_pct | retention_month_3_pct
+2023-01 | 17 | 2 | 1 | 1 | 0 | 11.76 | 5.88 | 5.88 | 0.0
+2023-02 | 12 | 1 | 0 | 0 | 0 | 8.33 | 0.0 | 0.0 | 0.0
+2023-03 | 9 | 0 | 1 | 1 | 0 | 0.0 | 11.11 | 11.11 | 0.0
+2023-04 | 17 | 1 | 0 | 2 | 1 | 5.88 | 0.0 | 11.76 | 5.88
+2023-05 | 16 | 1 | 0 | 1 | 0 | 6.25 | 0.0 | 6.25 | 0.0
+2023-06 | 19 | 1 | 2 | 0 | 0 | 5.26 | 10.53 | 0.0 | 0.0
+2023-07 | 15 | 2 | 0 | 2 | 2 | 13.33 | 0.0 | 13.33 | 13.33
+2023-08 | 26 | 1 | 0 | 2 | 0 | 3.85 | 0.0 | 7.69 | 0.0
+2023-09 | 15 | 1 | 0 | 3 | 2 | 6.67 | 0.0 | 20.0 | 13.33
+2023-10 | 11 | 0 | 0 | 0 | 0 | 0.0 | 0.0 | 0.0 | 0.0
+... (36 total rows)
+
+================================================================================
+16. Self-join with window function
+================================================================================
+product_a | product_b | times_bought_together
+Bedsheet Set Plus | Denim Jeans | 7
+Bedsheet Set Plus | Vacuum Cleaner Max | 6
+Power Bank Classic | Bedsheet Set Plus | 6
+Running Shoes Plus | Bedsheet Set Plus | 6
+Bedsheet Set Plus | Bluetooth Speaker Plus | 5
+Bedsheet Set Plus | Comic Bundle Classic | 5
+Bedsheet Set Plus | Wall Clock Plus | 5
+Bluetooth Speaker Max | Bedsheet Set Plus | 5
+Coffee Mug Classic | Vacuum Cleaner Max | 5
+Winter Jacket Classic | Wall Clock Plus | 5
+... (20 total rows)

@@ -1,0 +1,151 @@
+product_id,product_name,category,subcategory,cost_price
+1,Power Bank Classic,Home,Furniture,12226.09
+2,Cotton T-Shirt,Home,Furniture,76.88
+3,Smartphone Lite,Books,Children,9055.71
+4,Bluetooth Speaker Plus,Clothing,Winterwear,2152.62
+5,Non-Stick Pan Lite,Clothing,Kids,9560.99
+6,Wireless Earbuds Max,Home,Bedding,3184.78
+7,Bluetooth Speaker,Home,Decor,69.15
+8,Bedsheet Set Plus,Books,Non-Fiction,13232.47
+9,Mystery Novel Classic,Books,Fiction,9781.99
+10,Laptop Bag Pro,Clothing,Footwear,4458.88
+11,Non-Stick Pan Lite,Electronics,Mobiles,13324.57
+12,Laptop Bag Max,Electronics,Cameras,8930.76
+13,Bedsheet Set,Books,Fiction,2516.71
+14,Bluetooth Speaker Max,Clothing,Men,3122.98
+15,Kids Hoodie Lite,Home,Decor,1483.94
+16,Smartphone Max,Books,Non-Fiction,107.04
+17,Wireless Earbuds Lite,Clothing,Men,2603.94
+18,Bluetooth Speaker Max,Electronics,Accessories,11783.9
+19,Usb Cable Classic,Home,Kitchen,5843.53
+20,Cotton T-Shirt Plus,Books,Academic,717.02
+21,Winter Jacket Classic,Home,Furniture,971.51
+22,Power Bank Max,Electronics,Mobiles,12132.29
+23,Smartphone Plus,Clothing,Winterwear,12285.16
+24,Running Shoes Plus,Books,Children,4517.84
+25,Kids Storybook Classic,Electronics,Cameras,12016.73
+26,Coffee Mug Plus,Clothing,Men,2634.54
+27,Smart Watch Pro,Clothing,Women,6379.45
+28,Usb Cable Lite,Books,Non-Fiction,12519.92
+29,Wall Clock Classic,Electronics,Mobiles,5990.46
+30,Vacuum Cleaner Pro,Home,Cleaning,11808.93
+31,Bedsheet Set Lite,Books,Fiction,2265.59
+32,Kids Storybook Pro,Electronics,Mobiles,11796.9
+33,Winter Jacket Plus,Home,Bedding,9839.08
+34,Cotton T-Shirt Max,Books,Fiction,6074.46
+35,Wall Clock Max,Books,Fiction,10373.18
+36,Wireless Earbuds Max,Home,Decor,12269.92
+37,Desk Lamp,Home,Bedding,1518.35
+38,Yoga Mat Plus,Clothing,Kids,11621.76
+39,Usb Cable Pro,Books,Children,2859.64
+40,Coffee Mug Classic,Books,Comics,13014.48
+41,Kids Hoodie,Clothing,Men,7626.59
+42,Denim Jeans Pro,Clothing,Women,3779.88
+43,Winter Jacket Max,Home,Furniture,12361.42
+44,Running Shoes Max,Electronics,Mobiles,7357.36
+45,Comic Bundle Max,Books,Children,5196.52
+46,Kids Hoodie Pro,Home,Kitchen,5829.16
+47,Usb Cable Lite,Clothing,Women,10181.54
+48,Wireless Earbuds,Books,Children,183.02
+49,Wireless Earbuds Lite,Clothing,Winterwear,3823.24
+50,Bedsheet Set Plus,Home,Decor,12781.21
+51,Kids Hoodie,Clothing,Footwear,7833.54
+52,Cook Book,Electronics,Mobiles,14498.96
+53,Power Bank Pro,Home,Decor,7251.99
+54,Winter Jacket Max,Home,Decor,9858.99
+55,Smart Watch Classic,Home,Furniture,11493.84
+56,Power Bank Lite,Books,Academic,10833.18
+57,Bedsheet Set Plus,Home,Decor,5854.71
+58,Power Bank Classic,Home,Furniture,9592.79
+59,Kids Hoodie Lite,Home,Cleaning,12617.55
+60,Bluetooth Speaker Plus,Clothing,Kids,1962.76
+61,Usb Cable Pro,Clothing,Kids,3372.69
+62,Non-Stick Pan Max,Home,Bedding,3945.36
+63,Smartphone,Electronics,Accessories,8774.44
+64,Denim Jeans Classic,Electronics,Accessories,1841.25
+65,Smartphone Lite,Home,Bedding,2103.61
+66,Vacuum Cleaner Lite,Books,Children,4779.93
+67,Non-Stick Pan,Electronics,Accessories,14800.27
+68,Vacuum Cleaner Max,Electronics,Mobiles,3180.27
+69,Coffee Mug Pro,Clothing,Footwear,1984.62
+70,Bedsheet Set Plus,Books,Comics,5780.58
+71,Non-Stick Pan Classic,Home,Kitchen,2899.12
+72,Desk Lamp Max,Clothing,Women,4715.78
+73,Smartphone Max,Clothing,Men,14229.53
+74,Power Bank Lite,Home,Bedding,5173.86
+75,Cotton T-Shirt Plus,Home,Furniture,335.91
+76,Yoga Mat Pro,Clothing,Women,8865.91
+77,Wall Clock,Home,Kitchen,3874.05
+78,Smartphone,Electronics,Cameras,1666.3
+79,Bedsheet Set Plus,Electronics,Mobiles,5734.79
+80,Denim Jeans,Books,Non-Fiction,10301.81
+81,Winter Jacket Classic,Electronics,Cameras,9104.23
+82,Bluetooth Speaker Pro,Electronics,Audio,7491.2
+83,Denim Jeans Max,Home,Cleaning,10566.38
+84,Mystery Novel Lite,Electronics,Cameras,10338.65
+85,Wireless Earbuds,Clothing,Men,1380.59
+86,Coffee Mug Classic,Clothing,Men,1171.97
+87,Vacuum Cleaner Max,Home,Furniture,3998.67
+88,Wooden Chair,Electronics,Audio,4724.97
+89,Wireless Earbuds Lite,Electronics,Mobiles,9967.16
+90,History Textbook Max,Home,Bedding,13183.21
+91,Wall Clock Plus,Clothing,Men,14436.53
+92,Bedsheet Set,Books,Comics,13297.55
+93,Cotton T-Shirt Pro,Clothing,Men,6269.61
+94,History Textbook Plus,Books,Non-Fiction,11698.51
+95,Mystery Novel Pro,Clothing,Footwear,13319.53
+96,Usb Cable Max,Electronics,Audio,234.79
+97,Cook Book Classic,Clothing,Kids,10339.21
+98,Mystery Novel Max,Books,Non-Fiction,9972.47
+99,History Textbook Pro,Clothing,Winterwear,224.09
+100,Cotton T-Shirt Pro,Books,Comics,11283.88
+101,Smartphone Classic,Home,Decor,3379.46
+102,Laptop Bag Plus,Books,Non-Fiction,6690.62
+103,Vacuum Cleaner Max,Electronics,Accessories,1824.67
+104,Wall Clock Plus,Electronics,Mobiles,585.69
+105,History Textbook,Electronics,Cameras,4603.74
+106,Non-Stick Pan Max,Clothing,Footwear,12388.4
+107,Comic Bundle Classic,Books,Academic,9019.27
+108,Bluetooth Speaker Pro,Home,Bedding,11401.83
+109,Usb Cable Max,Home,Decor,8237.97
+110,Cotton T-Shirt Plus,Electronics,Mobiles,2149.72
+111,Winter Jacket Classic,Books,Fiction,2979.03
+112,Denim Jeans,Clothing,Footwear,5102.11
+113,Bluetooth Speaker Plus,Electronics,Cameras,6887.95
+114,Wireless Earbuds Classic,Clothing,Footwear,11056.4
+115,Mystery Novel Classic,Books,Children,11727.17
+116,Bluetooth Speaker Plus,Clothing,Women,9879.95
+117,Wall Clock Plus,Home,Cleaning,14693.54
+118,Wall Clock Max,Clothing,Kids,14558.85
+119,Bedsheet Set Classic,Clothing,Women,10515.21
+120,Non-Stick Pan,Home,Cleaning,11065.44
+121,Denim Jeans Classic,Clothing,Women,10730.05
+122,Cook Book Classic,Clothing,Women,10429.96
+123,Comic Bundle Plus,Electronics,Audio,8762.95
+124,Kids Hoodie Plus,Books,Children,12134.16
+125,Smart Watch Pro,Electronics,Accessories,10070.3
+126,Power Bank Max,Clothing,Kids,2239.1
+127,Smartphone Max,Clothing,Winterwear,12219.69
+128,Cook Book,Books,Non-Fiction,4350.2
+129,Bedsheet Set,Books,Comics,4724.18
+130,Denim Jeans Classic,Electronics,Audio,13039.31
+131,Usb Cable,Books,Non-Fiction,10657.7
+132,Kids Hoodie Plus,Clothing,Women,2702.52
+133,Yoga Mat Classic,Clothing,Women,1834.34
+134,Cotton T-Shirt Classic,Home,Furniture,12697.91
+135,Smart Watch Max,Clothing,Men,8973.36
+136,Kids Storybook Classic,Home,Bedding,5403.38
+137,Running Shoes Lite,Home,Cleaning,7833.06
+138,Comic Bundle Classic,Clothing,Footwear,6081.09
+139,Non-Stick Pan Max,Clothing,Kids,4438.94
+140,Coffee Mug,Books,Children,181.62
+141,Usb Cable Classic,Books,Non-Fiction,13783.18
+142,Wall Clock Pro,Electronics,Audio,5818.85
+143,Cook Book Max,Home,Kitchen,7738.92
+144,Kids Hoodie,Books,Fiction,2928.06
+145,Coffee Mug Classic,Electronics,Laptops,8021.43
+146,Power Bank Plus,Clothing,Women,12543.19
+147,Yoga Mat,Books,Fiction,2348.63
+148,Laptop Bag Pro,Home,Kitchen,861.31
+149,Running Shoes Max,Electronics,Cameras,6144.11
+150,Non-Stick Pan Pro,Books,Comics,5873.05

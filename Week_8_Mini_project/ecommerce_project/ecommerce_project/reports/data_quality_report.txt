@@ -1,0 +1,24 @@
+DATA QUALITY REPORT
+============================================================
+Rows processed: orders=1200, order_items=2500, products=150, customers=600
+
+-- clean_orders() --
+  Orders with wrong date format (DD-MM-YYYY) fixed: 84
+  Orders with unparseable order_date: 0
+  Orders with NULL/missing customer_id: 66
+
+-- clean_products() --
+  Product names normalized (case/whitespace fixed): 26
+
+-- validate_emails() --
+  Customers with invalid email: 7
+  Invalid customer_ids: [23, 180, 425, 443, 461, 518, 523]
+
+-- check_referential_integrity() --
+  order_items rows referencing non-existent orders: 20
+  Orphan order_ids referenced: [1201, 1203, 1204, 1205, 1206, 1209, 1210, 1211, 1212, 1214, 1215]
+
+-- order_items sanity checks --
+  Rows with discount_percent outside 0-100 (clipped): 0
+  Rows with negative quantity (returns, kept as-is): 70
+  Rows with zero quantity: 0
