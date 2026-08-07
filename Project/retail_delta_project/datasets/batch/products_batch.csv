@@ -1,0 +1,351 @@
+product_id,product_name,category,unit_price
+PROD00168,Coffee Maker Pro,Home & Kitchen,12247.6
+PROD00139,Bedsheet Set Pro,Home & Kitchen,2868.24
+PROD00070,Running Shoes Pro,Apparel,12421.39
+PROD00119,Cotton T-Shirt Plus,Apparel,unknown
+PROD00035,USB-C Charger Plus,Electronics,4266.48
+PROD00137,Table Lamp Max,Home & Kitchen,8900.77
+PROD00221,Graphic Novel Max,Books,
+PROD00071,Wool Sweater Max,Apparel,-1
+PROD00110,Wool Sweater Pro,Apparel,8896.13
+PROD00027,Bluetooth Speaker Plus,Electronics,
+,Bedsheet Set Pro,Home & Kitchen,2868.24
+PROD00054,Wireless Mouse,Electronics,14089.82
+PROD00106,Formal Shirt Max,Apparel,
+,Children's Storybook Plus,Books,12878.34
+PROD00109,Running Shoes,Apparel,860.37
+,USB-C Charger Pro,Electronics,10047.92
+PROD00061,Wool Sweater Pro,Apparel,N/A
+PROD00251,Cricket Bat Plus,Sports,19033.75
+PROD00002,Smartwatch Lite,Electronics,15916.41
+PROD00212,Biography Plus,Books,-1
+PROD00279,Yoga Mat Plus,Sports,Rs.21830.2
+,Smartwatch Max,Electronics,3113.59
+PROD00173,Non-stick Pan Lite,Home & Kitchen,6398.12
+PROD00118,Rain Jacket Max,Apparel,12416.36
+,USB-C Charger Pro,Electronics,22380.93
+PROD00125,Vacuum Cleaner Lite,Home & Kitchen,20628.11
+,Children's Storybook Plus,Books,12878.34
+PROD00223,Cookbook Plus,Books,20490.97
+PROD00123,Air Fryer Max,Home & Kitchen,22082.62
+,Bluetooth Speaker,Electronics,16542.71
+PROD00185,Cookbook Plus,Books,17130.53
+PROD00045,Bluetooth Speaker Max,Electronics,20254.66
+PROD00187,Cookbook Pro,Books,7631.4
+PROD00235,Self-Help Guide Plus,Books,376.63
+,Children's Storybook Plus,Books,22685.19
+PROD00015,Noise Cancelling Headphones Max,Electronics,2046.37
+PROD00029,Wireless Mouse,Electronics,8811.55
+PROD00195,Biography Plus,Books,2347.46
+PROD00077,Denim Jacket Lite,Apparel,2337.22
+PROD00189,Children's Storybook Max,Books,-1
+PROD00241,Cricket Bat Lite,Sports,19656.28
+PROD00083,Denim Jacket Pro,Apparel,14648.81
+PROD00154,Coffee Maker Pro,Home & Kitchen,5276.74
+PROD00073,Running Shoes Pro,Apparel,23451.94
+PROD00065,Cotton T-Shirt,Apparel,Rs.22411.36
+PROD00177,Air Fryer Plus,Home & Kitchen,24898.47
+PROD00291,Cricket Bat Max,Sports,$24529.24
+PROD00270,Cycling Helmet,Sports,20715.26
+PROD00087,Rain Jacket,Apparel,13260.58
+PROD00034,Smartwatch,Electronics,2706.93
+PROD00232,Children's Storybook,Books,7673.63
+PROD00100,Rain Jacket Plus,Apparel,$2775.66
+PROD00222,Cookbook Plus,Books,15959.5
+PROD00102,Wool Sweater,Apparel,21716.29
+PROD00099,Formal Shirt Plus,Apparel,11432.45
+PROD00003,Bluetooth Speaker Plus,Electronics,6107.09
+PROD00217,Biography Pro,Books,9859.24
+PROD00238,Biography Plus,Books,12899.17
+PROD00101,Denim Jacket Max,Apparel,22929.93
+PROD00220,Self-Help Guide Max,Books,20568.91
+PROD00025,Bluetooth Speaker Pro,Electronics,21691.83
+PROD00204,Self-Help Guide Lite,Books,N/A
+,Coffee Maker Lite,Home & Kitchen,20126.73
+PROD00244,Resistance Bands,Sports,4632.31
+PROD00233,Biography Lite,Books,1209.4
+PROD00104,Cotton T-Shirt Plus,Apparel,7054.29
+PROD00095,Wool Sweater Plus,Apparel,20490.01
+PROD00211,Self-Help Guide Pro,Books,15761.75
+PROD00174,Coffee Maker,Home & Kitchen,19663.79
+PROD00256,Football,Sports,19119.3
+PROD00151,Bedsheet Set Plus,Home & Kitchen,21428.2
+PROD00255,Yoga Mat Pro,Sports,1079.84
+PROD00275,Cricket Bat Max,Sports,Rs.2657.69
+PROD00057,USB-C Charger Pro,Electronics,5074.04
+PROD00274,Cycling Helmet,Sports,2091.87
+PROD00049,Wireless Mouse Pro,Electronics,8066.94
+PROD00195,Biography Plus,Books,2347.46
+PROD00048,Bluetooth Speaker Pro,Electronics,$19520.94
+PROD00080,Cotton T-Shirt Lite,Apparel,1342.88
+PROD00273,Football Pro,Sports,15692.95
+PROD00001,Wireless Mouse Plus,Electronics,18597.14
+PROD00115,Cotton T-Shirt Max,Apparel,16268.25
+PROD00011,USB-C Charger Pro,Electronics,22380.93
+PROD00289,Dumbbell Set,Sports,12414.84
+PROD00103,Denim Jacket Plus,Apparel,19533.52
+PROD00024,Wireless Mouse Plus,Electronics,unknown
+PROD00018,Bluetooth Speaker,Electronics,16542.71
+PROD00111,Rain Jacket Max,Apparel,2239.06
+PROD00140,Table Lamp Lite,Home & Kitchen,17049.15
+PROD00126,Bedsheet Set Plus,Home & Kitchen,unknown
+PROD00094,Cotton T-Shirt Plus,Apparel,5430.02
+PROD00147,Coffee Maker Lite,Home & Kitchen,7633.18
+PROD00053,Laptop Stand Plus,Electronics,5422.55
+PROD00205,Children's Storybook Lite,Books,12114.48
+PROD00172,Non-stick Pan Pro,Home & Kitchen,10843.52
+,Coffee Maker Lite,Home & Kitchen,20126.73
+PROD00265,Dumbbell Set Plus,Sports,975.99
+PROD00006,USB-C Charger Lite,Electronics,Rs.16532.55
+PROD00164,Coffee Maker Pro,Home & Kitchen,2888.24
+PROD00193,Biography Max,Books,24041.96
+PROD00079,Running Shoes Pro,Apparel,22100.49
+PROD00078,Rain Jacket Pro,Apparel,24740.69
+PROD00182,Self-Help Guide,Books,23016.82
+PROD00208,Graphic Novel Plus,Books,5245.85
+PROD00219,Cookbook,Books,$21066.76
+PROD00016,Smartwatch Max,Electronics,22259.38
+PROD00225,Cookbook Lite,Books,
+,Biography Pro,Books,9737.65
+PROD00209,Children's Storybook Max,Books,18549.54
+PROD00072,Wool Sweater Pro,Apparel,21239.51
+PROD00106,Formal Shirt Max,Apparel,
+PROD00052,Laptop Stand Lite,Electronics,1795.94
+PROD00223,Cookbook Plus,Books,20490.97
+PROD00046,Bluetooth Speaker Pro,Electronics,9039.95
+PROD00248,Yoga Mat Plus,Sports,1266.49
+PROD00116,Denim Jacket Max,Apparel,7456.05
+PROD00284,Cycling Helmet Lite,Sports,11853.82
+PROD00175,Vacuum Cleaner,Home & Kitchen,23969.33
+PROD00111,Rain Jacket Max,Apparel,2239.06
+PROD00294,Cricket Bat Pro,Sports,18124.74
+PROD00017,Bluetooth Speaker Pro,Electronics,4618.19
+PROD00010,Wireless Mouse Lite,Electronics,2810.85
+PROD00282,Cycling Helmet,Sports,$7909.15
+PROD00259,Football,Sports,3460.43
+PROD00194,Fiction Novel Pro,Books,N/A
+PROD00218,Self-Help Guide Plus,Books,10203.25
+PROD00107,Cotton T-Shirt Plus,Apparel,18663.9
+PROD00214,Children's Storybook,Books,22015.49
+PROD00192,Biography Max,Books,8951.72
+PROD00290,Cycling Helmet Pro,Sports,17621.81
+PROD00267,Cycling Helmet Pro,Sports,13732.53
+PROD00199,Self-Help Guide Max,Books,$1480.37
+PROD00143,Coffee Maker Lite,Home & Kitchen,20126.73
+PROD00157,Vacuum Cleaner Max,Home & Kitchen,17018.22
+PROD00043,USB-C Charger,Electronics,15156.47
+PROD00004,USB-C Charger Plus,Electronics,4966.65
+PROD00176,Air Fryer Lite,Home & Kitchen,
+PROD00047,Bluetooth Speaker Lite,Electronics,16475.32
+PROD00051,Laptop Stand Plus,Electronics,19911.7
+PROD00127,Coffee Maker,Home & Kitchen,15976.95
+PROD00038,USB-C Charger,Electronics,15629.34
+PROD00166,Bedsheet Set,Home & Kitchen,17070.94
+PROD00159,Coffee Maker Max,Home & Kitchen,9867.0
+PROD00153,Table Lamp Max,Home & Kitchen,18564.16
+PROD00224,Cookbook,Books,-1
+PROD00031,Smartwatch Max,Electronics,12889.52
+PROD00175,Vacuum Cleaner,Home & Kitchen,23969.33
+PROD00088,Wool Sweater Lite,Apparel,16582.53
+PROD00257,Resistance Bands Plus,Sports,21040.88
+PROD00067,Cotton T-Shirt Max,Apparel,
+PROD00036,Noise Cancelling Headphones Max,Electronics,12272.62
+PROD00215,Fiction Novel Pro,Books,6293.07
+PROD00171,Non-stick Pan Lite,Home & Kitchen,1471.85
+PROD00179,Coffee Maker Max,Home & Kitchen,5588.62
+PROD00197,Children's Storybook Plus,Books,12878.34
+,Biography Lite,Books,1209.4
+PROD00146,Coffee Maker Pro,Home & Kitchen,9202.59
+,Smartwatch Max,Electronics,3113.59
+PROD00198,Children's Storybook,Books,13650.25
+PROD00115,Cotton T-Shirt Max,Apparel,16268.25
+PROD00288,Resistance Bands Pro,Sports,8340.79
+PROD00155,Air Fryer Max,Home & Kitchen,23028.08
+PROD00124,Bedsheet Set Plus,Home & Kitchen,9913.2
+PROD00170,Air Fryer,Home & Kitchen,7182.98
+PROD00206,Fiction Novel,Books,3167.85
+PROD00130,Bedsheet Set Plus,Home & Kitchen,18516.41
+PROD00056,Noise Cancelling Headphones Lite,Electronics,18941.6
+PROD00091,Formal Shirt,Apparel,2207.44
+PROD00229,Biography Max,Books,10509.88
+PROD00178,Bedsheet Set Pro,Home & Kitchen,14692.84
+PROD00249,Dumbbell Set Pro,Sports,2549.03
+PROD00114,Wool Sweater Pro,Apparel,6923.83
+PROD00062,Running Shoes,Apparel,593.23
+,Coffee Maker Lite,Home & Kitchen,20126.73
+PROD00269,Football Plus,Sports,4874.9
+PROD00281,Dumbbell Set,Sports,21351.9
+PROD00060,Bluetooth Speaker,Electronics,$15095.55
+PROD00252,Yoga Mat Plus,Sports,22509.89
+PROD00276,Dumbbell Set,Sports,1429.25
+PROD00085,Rain Jacket Max,Apparel,22211.79
+PROD00063,Cotton T-Shirt Lite,Apparel,N/A
+PROD00243,Football,Sports,24069.49
+PROD00253,Resistance Bands Max,Sports,22327.95
+PROD00050,Noise Cancelling Headphones Max,Electronics,8322.4
+PROD00069,Running Shoes,Apparel,10098.56
+PROD00082,Wool Sweater Plus,Apparel,6857.31
+PROD00113,Wool Sweater Pro,Apparel,12771.98
+PROD00294,Cricket Bat Pro,Sports,18124.74
+PROD00135,Coffee Maker Plus,Home & Kitchen,22049.25
+PROD00216,Biography,Books,762.71
+PROD00245,Resistance Bands Plus,Sports,13207.03
+PROD00231,Fiction Novel Pro,Books,14170.6
+PROD00014,Wireless Mouse Max,Electronics,10431.57
+PROD00023,Bluetooth Speaker,Electronics,
+PROD00280,Cricket Bat,Sports,2008.21
+PROD00199,Self-Help Guide Max,Books,$1480.37
+PROD00157,Vacuum Cleaner Max,Home & Kitchen,17018.22
+PROD00108,Cotton T-Shirt Plus,Apparel,22368.34
+PROD00188,Self-Help Guide Max,Books,14231.63
+PROD00278,Cricket Bat Lite,Sports,9852.1
+PROD00162,Table Lamp Max,Home & Kitchen,3205.59
+PROD00148,Table Lamp,Home & Kitchen,19396.98
+PROD00027,Bluetooth Speaker Plus,Electronics,
+PROD00258,Cricket Bat Max,Sports,2825.38
+PROD00268,Cricket Bat,Sports,4754.81
+PROD00287,Yoga Mat,Sports,3611.32
+PROD00021,Laptop Stand Plus,Electronics,13730.1
+PROD00247,Cricket Bat Max,Sports,
+PROD00238,Biography Plus,Books,12899.17
+PROD00098,Running Shoes Lite,Apparel,19048.13
+PROD00236,Self-Help Guide,Books,12590.86
+PROD00017,Bluetooth Speaker Pro,Electronics,4618.19
+PROD00169,Coffee Maker Pro,Home & Kitchen,537.47
+PROD00277,Cricket Bat Lite,Sports,710.18
+PROD00150,Vacuum Cleaner Plus,Home & Kitchen,$16049.04
+PROD00261,Football Lite,Sports,11022.24
+PROD00097,Rain Jacket,Apparel,19075.82
+PROD00272,Dumbbell Set Max,Sports,20069.66
+PROD00089,Running Shoes Max,Apparel,19350.2
+PROD00183,Self-Help Guide Max,Books,4456.55
+PROD00149,Bedsheet Set,Home & Kitchen,2952.11
+PROD00201,Biography,Books,20215.9
+PROD00227,Biography Lite,Books,9278.38
+PROD00190,Fiction Novel Max,Books,3594.46
+PROD00200,Cookbook Pro,Books,10163.11
+PROD00273,Football Pro,Sports,15692.95
+PROD00131,Air Fryer Pro,Home & Kitchen,7980.55
+PROD00081,Cotton T-Shirt,Apparel,6703.62
+PROD00207,Graphic Novel Pro,Books,12843.9
+PROD00055,Noise Cancelling Headphones Max,Electronics,2009.38
+PROD00295,Yoga Mat Plus,Sports,12490.43
+PROD00028,USB-C Charger Plus,Electronics,6950.61
+PROD00221,Graphic Novel Max,Books,
+PROD00015,Noise Cancelling Headphones Max,Electronics,2046.37
+PROD00234,Cookbook Max,Books,11777.49
+PROD00039,Smartwatch,Electronics,10818.43
+PROD00075,Denim Jacket Lite,Apparel,2762.62
+PROD00012,Wireless Mouse Lite,Electronics,12431.99
+PROD00286,Football Lite,Sports,6632.9
+PROD00042,Laptop Stand Max,Electronics,6438.63
+PROD00284,Cycling Helmet Lite,Sports,11853.82
+PROD00160,Coffee Maker Pro,Home & Kitchen,7836.68
+PROD00291,Cricket Bat Max,Sports,$24529.24
+PROD00242,Football Max,Sports,1845.02
+PROD00274,Cycling Helmet,Sports,2091.87
+PROD00096,Wool Sweater Plus,Apparel,2747.69
+PROD00263,Football Plus,Sports,20373.87
+PROD00230,Cookbook Max,Books,845.07
+PROD00264,Yoga Mat Pro,Sports,14615.38
+PROD00250,Football Max,Sports,23365.71
+PROD00086,Formal Shirt Pro,Apparel,11252.48
+PROD00299,Dumbbell Set Max,Sports,13424.52
+PROD00202,Biography Pro,Books,21004.07
+PROD00156,Vacuum Cleaner Lite,Home & Kitchen,2832.1
+PROD00218,Self-Help Guide Plus,Books,10203.25
+PROD00013,Bluetooth Speaker Max,Electronics,9861.39
+PROD00074,Cotton T-Shirt Pro,Apparel,5716.76
+PROD00145,Table Lamp Max,Home & Kitchen,$6544.89
+PROD00219,Cookbook,Books,$21066.76
+PROD00037,Smartwatch Lite,Electronics,14968.8
+PROD00213,Fiction Novel Plus,Books,1818.48
+PROD00191,Graphic Novel Lite,Books,7934.52
+PROD00167,Coffee Maker Plus,Home & Kitchen,15651.31
+PROD00105,Formal Shirt,Apparel,7782.6
+PROD00148,Table Lamp,Home & Kitchen,19396.98
+PROD00271,Cricket Bat,Sports,9008.66
+PROD00262,Dumbbell Set Plus,Sports,5149.64
+PROD00058,Smartwatch Lite,Electronics,12541.48
+,Children's Storybook Plus,Books,12878.34
+,Coffee Maker Pro,Home & Kitchen,5276.74
+PROD00040,USB-C Charger Pro,Electronics,-1
+PROD00056,Noise Cancelling Headphones Lite,Electronics,18941.6
+PROD00180,Coffee Maker Max,Home & Kitchen,N/A
+PROD00121,Non-stick Pan Plus,Home & Kitchen,14444.48
+PROD00023,Bluetooth Speaker,Electronics,
+PROD00181,Biography Pro,Books,$10067.97
+,Wireless Mouse Lite,Electronics,2810.85
+PROD00132,Air Fryer Max,Home & Kitchen,4805.51
+PROD00296,Resistance Bands Max,Sports,8853.9
+PROD00032,Bluetooth Speaker Plus,Electronics,6364.81
+PROD00135,Coffee Maker Plus,Home & Kitchen,22049.25
+PROD00022,Laptop Stand Pro,Electronics,18581.17
+PROD00163,Table Lamp Lite,Home & Kitchen,24208.6
+PROD00300,Resistance Bands Pro,Sports,17137.34
+PROD00260,Cycling Helmet Lite,Sports,5113.4
+PROD00095,Wool Sweater Plus,Apparel,20490.01
+PROD00014,Wireless Mouse Max,Electronics,10431.57
+PROD00059,Smartwatch Max,Electronics,3113.59
+PROD00120,Cotton T-Shirt Pro,Apparel,5606.56
+PROD00026,Bluetooth Speaker Plus,Electronics,883.02
+PROD00076,Formal Shirt Plus,Apparel,18147.7
+PROD00090,Denim Jacket Lite,Apparel,2431.21
+PROD00117,Denim Jacket,Apparel,
+PROD00066,Cotton T-Shirt Pro,Apparel,8534.14
+PROD00254,Yoga Mat Lite,Sports,1688.88
+PROD00298,Yoga Mat Pro,Sports,23291.48
+,Football,Sports,19119.3
+PROD00133,Air Fryer Max,Home & Kitchen,24061.74
+PROD00093,Formal Shirt Max,Apparel,N/A
+PROD00179,Coffee Maker Max,Home & Kitchen,5588.62
+PROD00033,Noise Cancelling Headphones Lite,Electronics,21173.99
+PROD00161,Table Lamp Lite,Home & Kitchen,-1
+PROD00283,Yoga Mat Pro,Sports,Rs.13716.65
+PROD00142,Air Fryer Pro,Home & Kitchen,19415.13
+PROD00041,Smartwatch Pro,Electronics,4306.14
+PROD00297,Cricket Bat Plus,Sports,19571.31
+PROD00030,Noise Cancelling Headphones Max,Electronics,-1
+PROD00210,Cookbook Plus,Books,5705.06
+PROD00112,Denim Jacket,Apparel,3892.91
+PROD00285,Resistance Bands Lite,Sports,894.95
+PROD00246,Resistance Bands,Sports,unknown
+PROD00184,Graphic Novel,Books,21916.92
+PROD00019,Wireless Mouse Lite,Electronics,3062.6
+PROD00239,Graphic Novel,Books,3912.36
+PROD00005,Noise Cancelling Headphones Max,Electronics,19533.72
+PROD00226,Self-Help Guide,Books,16738.26
+PROD00009,Wireless Mouse,Electronics,11559.32
+PROD00237,Cookbook,Books,8818.53
+PROD00228,Biography Pro,Books,9737.65
+PROD00092,Denim Jacket Plus,Apparel,16538.1
+PROD00136,Vacuum Cleaner Pro,Home & Kitchen,19042.48
+PROD00165,Bedsheet Set Plus,Home & Kitchen,23191.74
+PROD00292,Cycling Helmet Pro,Sports,18521.34
+PROD00158,Table Lamp Lite,Home & Kitchen,4497.56
+PROD00064,Denim Jacket Max,Apparel,21064.83
+PROD00007,Wireless Mouse Pro,Electronics,23384.15
+,Smartwatch Max,Electronics,12889.52
+PROD00129,Air Fryer,Home & Kitchen,
+PROD00138,Table Lamp Plus,Home & Kitchen,175.01
+PROD00186,Self-Help Guide,Books,3521.92
+PROD00030,Noise Cancelling Headphones Max,Electronics,-1
+,Yoga Mat Lite,Sports,1688.88
+PROD00020,USB-C Charger,Electronics,12175.19
+PROD00203,Fiction Novel Pro,Books,6863.84
+PROD00293,Cycling Helmet Plus,Sports,12047.47
+PROD00173,Non-stick Pan Lite,Home & Kitchen,6398.12
+PROD00152,Coffee Maker Plus,Home & Kitchen,12521.13
+PROD00278,Cricket Bat Lite,Sports,9852.1
+PROD00128,Coffee Maker Pro,Home & Kitchen,N/A
+PROD00044,USB-C Charger Pro,Electronics,10047.92
+PROD00141,Air Fryer Plus,Home & Kitchen,13202.94
+PROD00144,Bedsheet Set Lite,Home & Kitchen,12342.95
+PROD00008,Noise Cancelling Headphones Pro,Electronics,N/A
+PROD00068,Formal Shirt Lite,Apparel,7629.81
+PROD00122,Non-stick Pan Lite,Home & Kitchen,unknown
+PROD00240,Self-Help Guide Plus,Books,11568.12
+PROD00196,Children's Storybook Plus,Books,22685.19
+PROD00084,Denim Jacket Plus,Apparel,8085.42
+PROD00134,Bedsheet Set Plus,Home & Kitchen,8451.25
+PROD00266,Yoga Mat Max,Sports,9085.09

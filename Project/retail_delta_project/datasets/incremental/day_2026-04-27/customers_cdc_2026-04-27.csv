@@ -1,0 +1,61 @@
+customer_id,customer_name,email,city,segment,change_date
+CUST00601,Ishaan Verma,cust00601@example.com,Ahmedabad,Corporate,2026-04-27
+CUST00593,Kabir Reddy,cust00593@example.com,Bengaluru,Corporate,2026-04-27
+CUST00252,Dev Verma,cust00252@example.com,Guwahati,Consumer,2026-04-27
+CUST00868,Riya Nair,cust00868@example.com,Mumbai,Corporate,2026-04-27
+CUST00187,Dev Sharma,cust00187@example.com,Bengaluru,Home Office,2026-04-27
+CUST01277,Nikhil Mehta,cust01277@example.com,Chennai,Home Office,2026-04-27
+CUST00063,Priya Rao,cust00063@example.com,Guwahati,Consumer,2026-04-27
+CUST00614,Aditya Nair,cust00614@example.com,Lucknow,Corporate,2026-04-27
+CUST00121,Tara Singh,cust00121@example.com,Hyderabad,Home Office,2026-04-27
+CUST00801,Arjun Chatterjee,cust00801@example.com,Ahmedabad,Home Office,2026-04-27
+CUST00523,Ananya Gupta,cust00523@example.com,Guwahati,Home Office,2026-04-27
+CUST00328,Arjun Kapoor,cust00328@example.com,Kolkata,Consumer,2026-04-27
+CUST00021,Ananya Singh,cust00021@example.com,Kolkata,Home Office,2026-04-27
+CUST01268,Nikhil Mehta,cust01268@example.com,Chennai,Home Office,2026-04-27
+CUST00111,Rohan Das,cust00111@example.com,Guwahati,Corporate,2026-04-27
+CUST00028,Arjun Patel,cust00028@example.com,Pune,Consumer,2026-04-27
+CUST00082,Diya Joshi,cust00082@example.com,Bengaluru,Consumer,2026-04-27
+CUST00025,Vivaan Rao,cust00025@example.com,Lucknow,Home Office,2026-04-27
+CUST00147,Tara Das,cust00147@example.com,Pune,Consumer,2026-04-27
+CUST00268,Rohan Chatterjee,cust00268@example.com,Ahmedabad,Consumer,2026-04-27
+CUST00279,Diya Mehta,cust00279@example.com,Guwahati,Corporate,2026-04-27
+CUST00529,Zara Reddy,cust00529@example.com,Lucknow,Corporate,2026-04-27
+CUST01287,Rohan Verma,cust01287@example.com,Chennai,Home Office,2026-04-27
+CUST00903,Meera Rao,cust00903@example.com,Mumbai,Home Office,2026-04-27
+CUST00770,Aditya Chatterjee,cust00770@example.com,Lucknow,Corporate,2026-04-27
+CUST00546,Meera Verma,cust00546@example.com,Bhubaneswar,Home Office,2026-04-27
+CUST00420,Isha Rao,cust00420@example.com,Jaipur,Consumer,2026-04-27
+CUST00398,Nikhil Verma,cust00398@example.com,Bengaluru,Home Office,2026-04-27
+CUST00901,Isha Kapoor,cust00901@example.com,Hyderabad,Corporate,2026-04-27
+CUST00238,Sara Rao,cust00238@example.com,Jaipur,Home Office,2026-04-27
+CUST01040,Ishaan Sharma,cust01040@example.com,Kolkata,Corporate,2026-04-27
+CUST00462,Tara Mehta,cust00462@example.com,Kolkata,Home Office,2026-04-27
+CUST00152,Arjun Rao,cust00152@example.com,Guwahati,Corporate,2026-04-27
+CUST01206,Rohan Chatterjee,cust01206@example.com,Pune,Consumer,2026-04-27
+CUST00044,Vivaan Mehta,cust00044@example.com,Kolkata,Corporate,2026-04-27
+CUST00787,Nikhil Das,cust00787@example.com,Hyderabad,Home Office,2026-04-27
+CUST01050,Rohan Sharma,cust01050@example.com,Hyderabad,Home Office,2026-04-27
+CUST01434,Kavya Rao,cust01434@example.com,Lucknow,Consumer,2026-04-27
+CUST01299,Kavya Verma,cust01299@example.com,Pune,Consumer,2026-04-27
+CUST00056,Vivaan Kapoor,cust00056@example.com,Bhubaneswar,Consumer,2026-04-27
+CUST01140,Sara Patel,cust01140@example.com,Bhubaneswar,Corporate,2026-04-27
+CUST01007,Sara Gupta,cust01007@example.com,Bengaluru,Home Office,2026-04-27
+CUST01341,Priya Mehta,cust01341@example.com,Mumbai,Home Office,2026-04-27
+CUST00764,Nikhil Mehta,cust00764@example.com,Ahmedabad,Consumer,2026-04-27
+CUST00745,Meera Patel,cust00745@example.com,Jaipur,Home Office,2026-04-27
+CUST00960,Meera Mehta,cust00960@example.com,Pune,Corporate,2026-04-27
+CUST00428,Rohan Nair,cust00428@example.com,Hyderabad,Home Office,2026-04-27
+CUST00175,Aarav Iyer,cust00175@example.com,Mumbai,Corporate,2026-04-27
+CUST00466,Meera Rao,cust00466@example.com,Chennai,Home Office,2026-04-27
+CUST00962,Arjun Patel,cust00962@example.com,Guwahati,Consumer,2026-04-27
+CUST01115,Arjun Gupta,cust01115@example.com,Pune,Consumer,2026-04-27
+CUST00732,Rohan Patel,cust00732@example.com,Jaipur,Consumer,2026-04-27
+CUST00870,Zara Reddy,cust00870@example.com,Lucknow,Home Office,2026-04-27
+CUST00366,Nikhil Gupta,cust00366@example.com,Kolkata,Home Office,2026-04-27
+CUST00629,Sara Chatterjee,cust00629@example.com,Delhi,Home Office,2026-04-27
+CUST01338,Yash Sharma,cust01338@example.com,Kolkata,Corporate,2026-04-27
+CUST00848,Aarav Das,cust00848@example.com,Bhubaneswar,Corporate,2026-04-27
+CUST00401,Aarav Kapoor,cust00401@example.com,Chennai,Corporate,2026-04-27
+CUST00020,Nikhil Nair,cust00020@example.com,Jaipur,Consumer,2026-04-27
+CUST00632,Yash Joshi,cust00632@example.com,Kolkata,Home Office,2026-04-27
